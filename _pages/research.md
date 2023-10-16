@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: Research
-years: [2023,2022,2021]
+title: research
+years: [2022,2021]
 pub: ["Conference Proceedings", "Workshops","Abstracts and Presentations"]
 nav: true
 nav_order: 1
