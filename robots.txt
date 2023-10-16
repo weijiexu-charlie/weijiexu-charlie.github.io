@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://weijiexu-charlie.github.io/sitemap.xml
