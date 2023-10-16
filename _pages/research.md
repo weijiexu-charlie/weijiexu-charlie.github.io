@@ -27,6 +27,7 @@ nav_order: 1
 1. Ming Xiang, Christopher Kennedy, **Weijie Xu** & Timothy Leffel (2022) Pragmatic reasoning and semantic convention: a case study of gradable adjectives. *Semantics and Pragmatics* 15. [[PDF]](https://doi.org/10.3765/sp.15.9)
 1. **Weijie Xu** & Ming Xiang (2021) Is there a predictability hierarchy in reference resolution? In *Proceedings of the Annual Meeting of the Cognitive Science Society*. Vol 43. [[PDF]](https://escholarship.org/uc/item/4mg9786g)
 
+<br/>
 
 ### Conference presentations
 
