@@ -12,8 +12,6 @@ nav_order: 2
 
 #### University of California, Irvine
 
-*Teaching Assistant*:
-
-LSCI 3: Introduction to Linguistics
-
-Soc Sci 70C: Comparing Cultures
+*Teaching Assistant*
+- LSCI 3: Introduction to Linguistics
+- Soc Sci 70C: Comparing Cultures
