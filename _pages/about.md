@@ -15,12 +15,12 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year Ph.D. student in Language Science at University of California, Irvine. I am part of [Language Processing Group](https://langprocgroup.github.io/) working with [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). My specialization is psycholinguistics. Specifically, I am primarily interested in language processing, and how the cognitive mechanisms at the individual level interact with language change and evolution at the population level. I draw upon both behavioral experiments and computational modeling in my research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to UC Irvine, I obtained my M.A. in Computational Social Science from the University of Chicago, where I worked in [Language Processing Lab](https://lucian.uchicago.edu/blogs/lpl/) with [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/). Before working on linguistics, I was focused on culture and literature with my B.A. in Spanish from Shanghai International Studies University in China.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Born in Nanchang, the capital city of Jiangxi Province in China, I am a native speaker of Mandarin Chinese and [Gan Chinese -- Chang-Du (赣语-昌都片)](https://en.wikipedia.org/wiki/Chang-Du_Gan).
