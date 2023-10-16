@@ -1,14 +1,15 @@
 ---
 layout: page
 permalink: /research/
-title: research
-years: [2022,2021]
-pub: ["Conference Proceedings", "Workshops","Abstracts and Presentations"]
-nav: true
-nav_order: 1
+title: <strong>R</strong>esearch
+site-title: Research
+# years: [2022,2021]
+# pub: ["Conference Proceedings", "Workshops","Abstracts and Presentations"]
+# nav: true
+# nav_order: 1
 ---
 <!-- _pages/research.md -->
-<div class="publications">
+<!-- <div class="publications"> -->
 
 
 <!-- * = equal contribution
