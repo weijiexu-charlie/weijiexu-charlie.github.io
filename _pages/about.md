@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <strong>Weijie</strong> Xu&nbsp;|&nbsp;徐 炜 杰 # about
+title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
