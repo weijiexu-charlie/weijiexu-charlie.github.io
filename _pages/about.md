@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.langsci.uci.edu/">Language Science</a> Ph.D. student at UC Irvine <br> <strong>Contact:</strong> &nbsp; weijie.xu@uci.edu
+subtitle: <a href="https://www.langsci.uci.edu/"><strong>Language Science<strong></a> Ph.D. student at UC Irvine <br> <strong>Contact:</strong> &nbsp; weijie.xu@uci.edu
 
 profile:
   align: right
