@@ -1,15 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: <strong>T</strong>eaching
+site-title: Teaching
+description: # Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
 #### University of California, Irvine
 
-***Teaching assistant***:
+*Teaching Assistant*:
 
 LSCI 3: Introduction to Linguistics
 

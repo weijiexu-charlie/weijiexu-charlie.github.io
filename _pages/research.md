@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: <strong>R</strong>esearch
+title: Research
 site-title: Research
 # years: [2022,2021]
 # pub: ["Conference Proceedings", "Workshops","Abstracts and Presentations"]
