@@ -5,8 +5,8 @@ title: <strong>R</strong>esearch
 site-title: Research
 # years: [2022,2021]
 # pub: ["Conference Proceedings", "Workshops","Abstracts and Presentations"]
-# nav: true
-# nav_order: 1
+nav: true
+nav_order: 1
 ---
 <!-- _pages/research.md -->
 <!-- <div class="publications"> -->
