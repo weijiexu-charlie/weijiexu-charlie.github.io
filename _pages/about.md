@@ -6,7 +6,7 @@ subtitle: <a href="https://www.langsci.uci.edu/">Language Science</a> Ph.D. stud
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
