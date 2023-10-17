@@ -2,7 +2,7 @@
 layout: page
 title: 南北东西路
 permalink: /photos/
-description: A collection of some aesthetic moments in my life...
+description: OUT AND ABOUT
 nav: false
 nav_order: 4
 # display_categories: [north america]
