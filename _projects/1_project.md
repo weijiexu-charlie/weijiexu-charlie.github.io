@@ -25,13 +25,13 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded-0 z-depth-1" %}
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded-0 z-depth-1" %}
+        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded-0 z-depth-1" %}
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
     </div>
 </div>
 <div class="caption">
