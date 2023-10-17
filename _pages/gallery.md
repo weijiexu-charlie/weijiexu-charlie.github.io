@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 南北东西路
-permalink: /photos/
+permalink: /outandabout/
 description: OUT AND ABOUT
 nav: false
 nav_order: 4
