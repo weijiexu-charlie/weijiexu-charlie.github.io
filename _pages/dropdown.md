@@ -6,7 +6,7 @@ nav_order: 4
 dropdown: true
 children:
     - title: 南北东西路
-      permalink: /photos/
+      permalink: /outandabout/
     # - title: divider
     # - title: projects
     #   permalink: /projects/
