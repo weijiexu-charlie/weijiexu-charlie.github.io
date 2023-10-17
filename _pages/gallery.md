@@ -2,7 +2,8 @@
 layout: page
 title: 南北东西路
 permalink: /photos/
-description: A collection of some moments that I found aesthetically beguiling.
+# description: As an ameteur iPhone photographer
+description: A collection of some moments that I found aesthetically beguiling....
 nav: false
 nav_order: 4
 display_categories: [work, fun]
