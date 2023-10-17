@@ -65,3 +65,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 
+<div class="caption">
+    Photos taken between Sept 2019 and Sept 2021
+</div>
+

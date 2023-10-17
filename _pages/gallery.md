@@ -3,7 +3,7 @@ layout: page
 title: 南北东西路
 permalink: /photos/
 # description: As an ameteur iPhone photographer
-description: A collection of some moments I found aesthetically touching in my life...
+description: A collection of some moments in my life that I found aesthetically touching...
 nav: false
 nav_order: 4
 display_categories: [north america]
