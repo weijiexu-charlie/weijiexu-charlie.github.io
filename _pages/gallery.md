@@ -5,7 +5,7 @@ permalink: /photos/
 description: A collection of some aesthetic moments in my life...
 nav: false
 nav_order: 4
-display_categories: [north america]
+# display_categories: [north america]
 horizontal: false
 ---
 
