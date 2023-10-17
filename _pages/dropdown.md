@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Others
-nav: false
+title: Non-Academic
+nav: true
 nav_order: 4
 dropdown: true
 children:
