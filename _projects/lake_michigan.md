@@ -4,7 +4,7 @@ title: 密歇根湖
 description: Lake Michigan
 img: assets/img/Lake_Michigan/lake5.jpg
 importance: 1
-category: work
+category: north america
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 

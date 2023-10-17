@@ -6,7 +6,7 @@ permalink: /photos/
 description: A collection of some moments I found aesthetically touching...
 nav: false
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [north america, south america]
 horizontal: false
 ---
 
