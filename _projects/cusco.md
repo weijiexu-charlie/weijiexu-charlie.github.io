@@ -3,7 +3,7 @@ layout: page
 title: 库斯科的大山
 description: THE MOUNTAINS OF CUSCO
 img: assets/img/Peru/peru1.jpg
-importance: 1
+importance: 2
 category: south america
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
@@ -29,6 +29,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
 不过多久，晓雾散去，我坐在靠窗的座位上，捧着书，想再多读几行字，奈何天高云阔，不远处又有崇山峻岭，这样好的风景，怎舍得弃之不顾，索性合上书，趴在车窗上，赏玩起眼前的风光。我望着天，天上云卷云舒，不由感叹天之高。天之高，似乎得有白云衬托，若万里无云，只觉得空荡荡。
 
+<br/>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Peru/peru4.jpg" title="Rainbow mountains" class="img-fluid rounded-0 z-depth-0" %}
@@ -41,6 +43,8 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 
+<br/>
+
 一小时后，列车驶进一条幽长的山谷，透过铁道旁的植被可以看见山谷里一条小河。正值旱季，四下草木枯黄，只有临河的些许还保持着青翠，若往山上看，则是一望无际的荒芜。
 
 一位老伯从车厢另一头走来，他的座位在靠山一侧，见我对面无人，询问能否同我共享一扇车窗，看看风景，我欣然答应。
@@ -50,6 +54,8 @@ To give your project a background in the portfolio page, just add the img tag to
 不知过了多久，列车在山谷中停下。车厢广播响起，原来是个「之」字形道口，列车需要调转方向。四下忽然安静，依稀可以听见山中水流潺潺。这突如其来的安静，让我和老伯都稍显尴尬，我们面面相觑。老伯说，他是和儿子一起来的，说着，指了指身后车厢末尾正闭目小憩的一位年轻人。
 
 我俩继续攀谈了会儿，却都是没话找话，待列车重又起步，吱呀声响起，窗外的风景又动了起来，俩人方才长舒一口气，结束了对话。不一会儿，老伯便起身道别，回去了自己的座位。
+
+<br/>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -62,6 +68,8 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.html path="assets/img/Peru/peru6.jpg" title="Chincherro" class="img-fluid rounded-0 z-depth-0" %}
     </div>
 </div>
+
+<br/>
 
 又不知过了多久，转过一个山头，植被忽然茂密，雨林里才有参天大树如潮水般漫上铁道两旁，方觉大山之深，如置身深海，胸口抵着十数万吨海水，那是深山才有的压迫感。
 
