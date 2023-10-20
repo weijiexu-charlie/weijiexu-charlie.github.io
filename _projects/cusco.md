@@ -13,7 +13,9 @@ category: south america
 
 这条铁路许是有些历史了，似年过花甲的老者，步履踉跄，身体虽不堪重负，却仍驮着千吨重的列车，夜以继日，只是苦了车里的乘客，喝水都小心翼翼，一不留神便一身都是。列车员推着餐车，叮铃哐啷地来，我问有无咖啡，却被告知已经售罄，只得作罢，便由她又叮铃哐啷地去。
 
-不过多久，晓雾散去，我坐在靠窗的座位上，捧着书，想再多读几行字，奈何天高云阔，不远处又有崇山峻岭，这样好的风景，怎舍得弃之不顾，索性合上书，趴在车窗上，赏玩起眼前的风光。我望着天，天上云卷云舒，不由感叹天之高。天之高，似乎得有白云衬托，若万里无云，只觉得空荡荡。
+不过多久，晓雾散去，我坐在靠窗的座位上，捧着书，想再多读几行字，奈何天高云阔，不远处又有崇山峻岭，这样好的风景，怎舍得弃之不顾，索性合上书本，趴在车窗上，赏玩起眼前的风光。
+
+我望着天，天上云卷云舒，不由感叹天之高。天之高，似乎得有白云衬托，若万里无云，只觉得空荡荡。
 
 <br/>
 
@@ -59,21 +61,21 @@ category: south america
 
 又不知过了多久，转过一个山头，植被忽然茂密，雨林里才有参天大树如潮水般漫上铁道两旁，方觉大山之深，如置身深海，胸口抵着十数万吨海水，那是深山才有的压迫感。
 
-列车继续前行，沿途路过几幢简陋的小屋，一些农民深居于此。有些农屋离轨道很近，咫尺般的距离似乎一伸手就能触摸到那布满青苔的墙壁。背靠崇山峻岭，峡谷中天空都变得很窄，世界似乎离这里很远，远到于这里的居民而言可能只是一个抽象的概念，世界似乎离这里又很近，屋前驶过一列又一列火车，车上是来自五湖四海的乘客一张张具体而又真实的面庞。
+列车继续前行，沿途路过几幢简陋的小屋，一些农民深居于此。有些农屋离轨道很近，咫尺般的距离似乎一伸手就能触摸到那布满青苔的墙壁。背靠崇山峻岭，峡谷中，连天空都变得很窄，世界似乎离这里很远，远到于这里的居民而言可能只是一个抽象的概念，世界似乎离这里又很近，屋前驶过一列又一列火车，车上是来自五湖四海的乘客一张张具体而又真实的面庞。
 
-树影斑驳，透过山谷密林深绿色的华盖可以窥见一座座大山高耸入云。大山总是被神圣化的，至少在平原城里人的想象中如是，似乎关于大山的故事很多，故事里许多人一去不复返。可对于那些生活在白云之巅的民族来说，真是如此吗？马丘比丘城里靠近悬崖边有一个小广场，中央立着块石头，正对着悬崖对面的那座「神山」。石头被切割成神山的形状，那是山的形状，或许对于那些生于斯长于斯的人而言，也是家的形状。
+树影斑驳，透过山谷密林深绿色的华盖可以窥见一座座大山高耸入云。我的家乡没有山，而想象中的大山总是被神圣化的，似乎关于大山的故事很多，故事里许多人一去不复返。可对于那些生活在白云之巅的人来说，真是如此吗？马丘比丘城里靠近悬崖边有一个小广场，中央立着块石头，正对着悬崖对面的那座「神山」。石头被切割成神山的形状，那是山的形状，或许对于那些生于斯长于斯的人而言，也是家的形状。
 
 <br/>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Peru/peru9.jpg" title="Humantay" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Peru/peru9_sq.jpg" title="Humantay" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Peru/peru10.jpg" title="Ollantaytambo" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Peru/peru10_sq.jpg" title="Ollantaytambo" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Peru/peru11.jpg" title="Cusco Viva el Peru" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Peru/peru11_sq.jpg" title="Cusco Viva el Peru" class="img-fluid rounded-0 z-depth-0" %}
     </div>
 </div>
 

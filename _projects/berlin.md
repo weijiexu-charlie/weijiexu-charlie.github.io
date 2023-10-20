@@ -17,13 +17,13 @@ category: europe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin1.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin1.jpg" title="The River Spree" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin11.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin11.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin12.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin12.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
     </div>
 </div>
 
@@ -37,13 +37,13 @@ category: europe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin2.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin2_sq.jpg" title="Kids Crossing the Street" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin4.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin4_sq.jpg" title="Musuem Island" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin6.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin6_sq.jpg" title="Berlin Street" class="img-fluid rounded-0 z-depth-0" %}
     </div>
 </div>
 
@@ -57,13 +57,13 @@ category: europe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin5.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin5_sq.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin15.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin15_sq.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Berlin/berlin10.jpg" title="example image" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Berlin/berlin10_sq.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
     </div>
 </div>
 
