@@ -139,6 +139,7 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    font-size: medium;
   }
 
   .card-item {
@@ -586,6 +587,7 @@ footer.sticky-bottom {
     &:hover {
       .card-title {
         color: var(--global-theme-color);
+        font-size: medium;
       }
     }
   }
@@ -1036,6 +1038,7 @@ nav[data-toggle="toc"] {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+      font-size: small;
     }
 
     &:hover {
@@ -1043,6 +1046,7 @@ nav[data-toggle="toc"] {
 
       .card-title {
         color: var(--global-theme-color);
+        font-size: medium;
       }
     }
   }
