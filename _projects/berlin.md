@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 施普雷河与小火车
-description: THE RIVER SPREE AND THE TRAINS
+description: THE RIVER SPREE & THE TRAINS
 img: assets/img/Berlin/berlin_cover.jpg
 importance: 3
 category: europe

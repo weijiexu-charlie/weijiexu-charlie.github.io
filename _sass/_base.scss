@@ -139,7 +139,7 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   .card-item {
@@ -1037,7 +1037,6 @@ nav[data-toggle="toc"] {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
-      font-size: small;
     }
 
     &:hover {
