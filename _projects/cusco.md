@@ -5,21 +5,7 @@ description: THE MOUNTAINS OF CUSCO
 img: assets/img/Peru/peru1.jpg
 importance: 2
 category: south america
-# related_publications: einstein1956investigations, einstein1950meaning
 ---
-
-<!-- Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: -->
-
- <!--    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    --- -->
 
 <br/>
 
@@ -75,7 +61,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 列车继续前行，沿途路过几幢简陋的小屋，一些农民深居于此。有些农屋离轨道很近，咫尺般的距离似乎一伸手就能触摸到那布满青苔的墙壁。背靠崇山峻岭，峡谷中天空都变得很窄，世界似乎离这里很远，远到于这里的居民而言可能只是一个抽象的概念，世界似乎离这里又很近，屋前驶过一列又一列火车，车上是来自五湖四海的乘客一张张具体而又真实的面庞。
 
-树影斑驳，透过山谷密林深绿色的华盖可以窥见一座座大山高耸入云。大山总是被神圣化的，至少在平原城里人的想象中如是，似乎关于大山的故事很多，故事里许多人一去不复返。可对于那些生活在白云之巅的民族来说，真是如此吗？马丘比丘城里靠近悬崖边有一个小广场，中央立着块石头，正对着悬崖对面的那座「神山」。石头被切割成神山的形状，那是山的形状，或许于生于斯长于斯的人而言，也是家的形状。
+树影斑驳，透过山谷密林深绿色的华盖可以窥见一座座大山高耸入云。大山总是被神圣化的，至少在平原城里人的想象中如是，似乎关于大山的故事很多，故事里许多人一去不复返。可对于那些生活在白云之巅的民族来说，真是如此吗？马丘比丘城里靠近悬崖边有一个小广场，中央立着块石头，正对着悬崖对面的那座「神山」。石头被切割成神山的形状，那是山的形状，或许对于那些生于斯长于斯的人而言，也是家的形状。
 
 <br/>
 
