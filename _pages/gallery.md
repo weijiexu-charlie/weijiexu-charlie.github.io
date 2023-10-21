@@ -70,6 +70,8 @@ horizontal: false
 {%- endif -%}
 </div>
 
+<br/>
+
 <div class="caption">
     Thanks to Andrew for the suggestion of "Out and About" as the English translation for the title of this blog.
 </div>
