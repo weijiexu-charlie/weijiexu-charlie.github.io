@@ -26,7 +26,7 @@ nav_order: 1
 ### Peer reviewed papers 
 
 
-1. **Weijie Xu**, Jason Chon, Tianran Liu & Richard Futrell (2023) The Linearity of the effect of surprisal on reading times across languages. In *EMNLP 2023 Findings*.  &nbsp; [[ PDF ]](https://aclanthology.org/2023.findings-emnlp.1052/)
+1. **Weijie Xu**, Jason Chon, Tianran Liu & Richard Futrell (2023) The Linearity of the effect of surprisal on reading times across languages. In *EMNLP 2023 Findings*.  &nbsp; [[ PDF ]](https://aclanthology.org/2023.findings-emnlp.1052/) [[ Code ]](https://github.com/weijiexu-charlie/Linearity-of-surprisal-on-RT)
 
 1. Ming Xiang, Christopher Kennedy, **Weijie Xu** & Timothy Leffel (2022) Pragmatic reasoning and semantic convention: A case study of gradable adjectives. *Semantics and Pragmatics* 15. &nbsp; [[ PDF ]](https://doi.org/10.3765/sp.15.9)
 
@@ -37,6 +37,7 @@ nav_order: 1
 ### Conference presentations
 
 #### 2024
+
 5. **Weijie Xu** & Richard Futrell. Dependency locality shaped by resource rationality: Evidence from English and Spanish. Oral presentation at California Meeting on Psycholinguistics (CAMP 6), Palo Alto, Jan 13-14.
 
 5. **Weijie Xu** & Richard Futrell. A hierarchical Bayesian model for syntactic priming. Poster at California Meeting on Psycholinguistics (CAMP 6), Palo Alto, Jan 13-14.
