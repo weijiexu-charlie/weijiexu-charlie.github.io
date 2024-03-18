@@ -25,7 +25,7 @@ nav_order: 1
 
 ### Peer reviewed papers 
 
-1. **Weijie Xu** & Richard Futrell (to appear) Syntactic dependency length shaped by strategic memory allocation. In *Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP*.
+1. **Weijie Xu** & Richard Futrell (2024) Syntactic dependency length shaped by strategic memory allocation. In *Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP*.  &nbsp; [[ PDF ]](https://aclanthology.org/2024.sigtyp-1.1/) &nbsp; [[ Code ]](https://github.com/weijiexu-charlie/Dependency-length-strategic-memory-allocation)
 
 1. **Weijie Xu**, Jason Chon, Tianran Liu & Richard Futrell (2023) The Linearity of the effect of surprisal on reading times across languages. In *Findings of the Association for Computational Linguistics: EMNLP 2023*.  &nbsp; [[ PDF ]](https://aclanthology.org/2023.findings-emnlp.1052/) &nbsp; [[ Code ]](https://github.com/weijiexu-charlie/Linearity-of-surprisal-on-RT)
 
