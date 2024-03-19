@@ -23,7 +23,7 @@ nav_order: 1
 
 <br/>
 
-### Peer reviewed papers 
+### Peer-reviewed papers 
 
 1. **Weijie Xu** & Richard Futrell (2024) Syntactic dependency length shaped by strategic memory allocation. In *Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP*.  &nbsp; [[ PDF ]](https://aclanthology.org/2024.sigtyp-1.1/) &nbsp; [[ Code ]](https://github.com/weijiexu-charlie/Dependency-length-strategic-memory-allocation)
 
