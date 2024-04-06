@@ -39,6 +39,8 @@ nav_order: 1
 
 #### 2024
 
+5. **Weijie Xu** & Richard Futrell. Syntactic dependency length shaped by strategic memory allocation. Oral presentation at the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP), Malta, Mar 21.
+
 5. **Weijie Xu** & Richard Futrell. Dependency locality shaped by resource rationality: Evidence from English and Spanish. Oral presentation at California Meeting on Psycholinguistics, Palo Alto, Jan 13-14.
 
 5. **Weijie Xu** & Richard Futrell. A hierarchical Bayesian model for syntactic priming. Poster at California Meeting on Psycholinguistics, Palo Alto, Jan 13-14.
