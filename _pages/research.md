@@ -21,9 +21,10 @@ nav_order: 1
 {% endfor %}
 </div> -->
 
-<br/>
+<p>&nbsp;</p>
 
 ### Peer-reviewed papers 
+<p>&nbsp;</p>
 
 1. **Weijie Xu** & Richard Futrell. (to appear). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*.
 
@@ -35,9 +36,10 @@ nav_order: 1
 
 1. **Weijie Xu** & Ming Xiang. (2021). Is there a predictability hierarchy in reference resolution? In *Proceedings of the Annual Meeting of the Cognitive Science Society*. Vol 43. &nbsp; [[pdf]](https://escholarship.org/uc/item/4mg9786g)
 
-<br/>
+<p>&nbsp;</p>
 
 ### Conference presentations
+<p>&nbsp;</p>
 
 ##### 2024
 
