@@ -26,7 +26,7 @@ nav_order: 1
 ### Peer-reviewed papers 
 <p>&nbsp;</p>
 
-1. **Weijie Xu** & Richard Futrell. (to appear). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*.
+1. **Weijie Xu** & Richard Futrell. (to appear). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*. &nbsp; [[pdf]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24/blob/master/HBM_CogSci24_paper.pdf) &nbsp; [[code]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24)
 
 1. **Weijie Xu** & Richard Futrell. (2024). Syntactic dependency length shaped by strategic memory allocation. In *Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP*.  &nbsp; [[pdf]](https://aclanthology.org/2024.sigtyp-1.1/) &nbsp; [[code]](https://github.com/weijiexu-charlie/Dependency-length-strategic-memory-allocation)
 
