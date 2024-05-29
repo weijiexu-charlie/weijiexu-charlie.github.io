@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<br/>
+<!-- <br/> -->
 
 I am a third-year Ph.D. student in Language Science at University of California, Irvine. I am a member of the [Language Processing Group](https://langprocgroup.github.io/) working with [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). My area of specialization is psycholinguistics. I am primarily interested in language processing, and how the cognitive mechanisms at the individual level interact with language change and evolution at the population level. To investigate these questions, I draw upon behavioral experiments, corpus analysis, and computational modeling in my research.
 
