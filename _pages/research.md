@@ -26,7 +26,9 @@ nav_order: 1
 ### Peer-reviewed papers 
 <p>&nbsp;</p>
 
-1. **Weijie Xu** & Richard Futrell. (to appear). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*. &nbsp; [[pdf]](https://arxiv.org/pdf/2405.15964) &nbsp; [[code]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24)
+1. **Weijie Xu** & Richard Futrell. (under revision). Informativity enhances memory robustness against interference in sentence comprehension.
+
+1. **Weijie Xu** & Richard Futrell. (2024). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. &nbsp; [[pdf]](https://arxiv.org/pdf/2405.15964) &nbsp; [[code]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24)
 
 1. **Weijie Xu** & Richard Futrell. (2024). Syntactic dependency length shaped by strategic memory allocation. In *Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP*.  &nbsp; [[pdf]](https://aclanthology.org/2024.sigtyp-1.1/) &nbsp; [[code]](https://github.com/weijiexu-charlie/Dependency-length-strategic-memory-allocation)
 
@@ -34,7 +36,7 @@ nav_order: 1
 
 1. Ming Xiang, Christopher Kennedy, **Weijie Xu** & Timothy Leffel. (2022). Pragmatic reasoning and semantic convention: A case study on gradable adjectives. *Semantics and Pragmatics* 15. &nbsp; [[pdf]](https://doi.org/10.3765/sp.15.9)
 
-1. **Weijie Xu** & Ming Xiang. (2021). Is there a predictability hierarchy in reference resolution? In *Proceedings of the Annual Meeting of the Cognitive Science Society*. Vol 43. &nbsp; [[pdf]](https://escholarship.org/uc/item/4mg9786g)
+1. **Weijie Xu** & Ming Xiang. (2021). Is there a predictability hierarchy in reference resolution? In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 43. &nbsp; [[pdf]](https://escholarship.org/uc/item/4mg9786g)
 
 <p>&nbsp;</p>
 
