@@ -26,7 +26,9 @@ nav_order: 1
 ### Peer-reviewed papers 
 <p>&nbsp;</p>
 
-1. **Weijie Xu** & Richard Futrell. (under revision). Informativity enhances memory robustness against interference in sentence comprehension.
+1. **Weijie Xu** & Richard Futrell. (under revision). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing.
+
+1. **Weijie Xu** & Richard Futrell. (resubmitted). Informativity enhances memory robustness against interference in sentence comprehension.
 
 1. **Weijie Xu** & Richard Futrell. (2024). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. &nbsp; [[pdf]](https://arxiv.org/pdf/2405.15964) &nbsp; [[code]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24)
 

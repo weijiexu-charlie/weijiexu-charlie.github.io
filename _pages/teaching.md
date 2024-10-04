@@ -13,7 +13,9 @@ nav_order: 2
 #### University of California, Irvine
 
 *Teaching Assistant*
-- LSCI 20: Introduction to Syntax
-- LSCI 155: Psychology of Language
-- LSCI 3: Introduction to Linguistics
-- SocSci 70C: Comparing Cultures
+
+- PSYCH 129: &nbsp; Evolutionary Psychology
+- LSCI 20: &nbsp; Introduction to Syntax
+- LSCI 155: &nbsp; Psychology of Language
+- LSCI 3: &nbsp; Introduction to Linguistics
+- SocSci 70C: &nbsp; Comparing Cultures
