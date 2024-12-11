@@ -30,7 +30,7 @@ nav_order: 1
 
 1. **Weijie Xu** & Richard Futrell. (resubmitted). Informativity enhances memory robustness against interference in sentence comprehension.
 
-1. **Weijie Xu** & Richard Futrell. (2024). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. &nbsp; [[pdf]](https://arxiv.org/pdf/2405.15964) &nbsp; [[code]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24)
+1. **Weijie Xu** & Richard Futrell. (2024). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. &nbsp; [[pdf]](https://escholarship.org/uc/item/9cc8p5fk) &nbsp; [[code]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24)
 
 1. **Weijie Xu** & Richard Futrell. (2024). Syntactic dependency length shaped by strategic memory allocation. In *Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP*.  &nbsp; [[pdf]](https://aclanthology.org/2024.sigtyp-1.1/) &nbsp; [[code]](https://github.com/weijiexu-charlie/Dependency-length-strategic-memory-allocation)
 
