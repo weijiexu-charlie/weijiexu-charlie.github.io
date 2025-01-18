@@ -28,17 +28,17 @@ nav_order: 1
 
 1. **Weijie Xu** & Richard Futrell. (revise & resubmit). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing.
 
-1. **Weijie Xu** & Richard Futrell. (accepted). Informativity enhances memory robustness against interference in sentence comprehension. *Journal of Memory and Language*.
+1. **Weijie Xu** & Richard Futrell. (2025). Informativity enhances memory robustness against interference in sentence comprehension. *Journal of Memory and Language*, *142*, 104603. &nbsp; [[paper]](https://www.sciencedirect.com/science/article/pii/S0749596X24001062) &nbsp; [[data and code]](https://osf.io/e5dsv/)
 
-1. **Weijie Xu** & Richard Futrell. (2024). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. &nbsp; [[pdf]](https://escholarship.org/uc/item/9cc8p5fk) &nbsp; [[code]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24)
+1. **Weijie Xu** & Richard Futrell. (2024). A hierarchical Bayesian model for syntactic priming. In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. &nbsp; [[paper]](https://escholarship.org/uc/item/9cc8p5fk) &nbsp; [[code]](https://github.com/weijiexu-charlie/HBM-for-syntactic-priming-CogSci24)
 
-1. **Weijie Xu** & Richard Futrell. (2024). Syntactic dependency length shaped by strategic memory allocation. In *Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP*.  &nbsp; [[pdf]](https://aclanthology.org/2024.sigtyp-1.1/) &nbsp; [[code]](https://github.com/weijiexu-charlie/Dependency-length-strategic-memory-allocation)
+1. **Weijie Xu** & Richard Futrell. (2024). Syntactic dependency length shaped by strategic memory allocation. In *Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP*.  &nbsp; [[paper]](https://aclanthology.org/2024.sigtyp-1.1/) &nbsp; [[code]](https://github.com/weijiexu-charlie/Dependency-length-strategic-memory-allocation)
 
-1. **Weijie Xu**, Jason Chon, Tianran Liu & Richard Futrell. (2023). The Linearity of the effect of surprisal on reading times across languages. In *Findings of the Association for Computational Linguistics: EMNLP 2023*.  &nbsp; [[pdf]](https://aclanthology.org/2023.findings-emnlp.1052/) &nbsp; [[code]](https://github.com/weijiexu-charlie/Linearity-of-surprisal-on-RT)
+1. **Weijie Xu**, Jason Chon, Tianran Liu & Richard Futrell. (2023). The Linearity of the effect of surprisal on reading times across languages. In *Findings of the Association for Computational Linguistics: EMNLP 2023*.  &nbsp; [[paper]](https://aclanthology.org/2023.findings-emnlp.1052/) &nbsp; [[code]](https://github.com/weijiexu-charlie/Linearity-of-surprisal-on-RT)
 
-1. Ming Xiang, Christopher Kennedy, **Weijie Xu** & Timothy Leffel. (2022). Pragmatic reasoning and semantic convention: A case study on gradable adjectives. *Semantics and Pragmatics* 15. &nbsp; [[pdf]](https://doi.org/10.3765/sp.15.9)
+1. Ming Xiang, Christopher Kennedy, **Weijie Xu** & Timothy Leffel. (2022). Pragmatic reasoning and semantic convention: A case study on gradable adjectives. *Semantics and Pragmatics*, *15*, 9-1. &nbsp; [[paper]](https://doi.org/10.3765/sp.15.9)
 
-1. **Weijie Xu** & Ming Xiang. (2021). Is there a predictability hierarchy in reference resolution? In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 43. &nbsp; [[pdf]](https://escholarship.org/uc/item/4mg9786g)
+1. **Weijie Xu** & Ming Xiang. (2021). Is there a predictability hierarchy in reference resolution? In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 43. &nbsp; [[paper]](https://escholarship.org/uc/item/4mg9786g)
 
 <p>&nbsp;</p>
 
