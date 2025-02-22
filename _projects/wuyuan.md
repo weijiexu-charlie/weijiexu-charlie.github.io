@@ -17,8 +17,6 @@ category: china
     </div>
 </div>
 
-
-
 <div class="row">
     <div class="col-md-6 mt-3">
         {% include figure.html path="assets/img/Wuyuan/wuyuan3.jpg" title="Wuyuan1" class="img-fluid rounded-0 z-depth-0" %}
@@ -28,7 +26,6 @@ category: china
     </div>
 </div>
 
-<br/>
 
 
 <div class="caption">
