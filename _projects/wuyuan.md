@@ -2,7 +2,7 @@
 layout: page
 title: 马头墙下
 description: 
-img: assets/img/Wuyuan/wuyuan3.jpg
+img: assets/img/Wuyuan/wuyuan_cover.jpg
 importance: 4
 category: china
 ---
@@ -23,12 +23,6 @@ category: china
 </div>
 
 
-
-<br/>
-
-
-
-<br/>
 
 <div class="row">
     <div class="col-md-6 mt-3">
