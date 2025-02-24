@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 马头墙下
-description: THE HORSE-HEAD WALLS
+description: THE 'HORSE-HEAD' WALLS
 img: assets/img/Wuyuan/wuyuan_cover.jpg
 importance: 4
 category: china
