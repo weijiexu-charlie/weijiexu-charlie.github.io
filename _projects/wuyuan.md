@@ -16,6 +16,31 @@ category: china
 <br/>
 
 <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Wuyuan/wuyuan1.jpg" title="Wuyuan 1" class="img-fluid rounded-0 z-depth-0" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Wuyuan/wuyuan2.jpg" title="Wuyuan 2" class="img-fluid rounded-0 z-depth-0" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Wuyuan/wuyuan3.jpg" title="Wuyuan 3" class="img-fluid rounded-0 z-depth-0" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Wuyuan/wuyuan4.jpg" title="Wuyuan 4" class="img-fluid rounded-0 z-depth-0" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Wuyuan/wuyuan5.jpg" title="Wuyuan 5" class="img-fluid rounded-0 z-depth-0" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Wuyuan/wuyuan6.jpg" title="Wuyuan 6" class="img-fluid rounded-0 z-depth-0" %}
+    </div>
+</div>
+
+<!-- 
+<div class="row">
     <div class="col-md-6 mt-3">
         {% include figure.html path="assets/img/Wuyuan/wuyuan1.jpg" title="Wuyuan1" class="img-fluid rounded-0 z-depth-0" %}
     </div>
@@ -31,9 +56,7 @@ category: china
     <div class="col-md-6 mt-3">
         {% include figure.html path="assets/img/Wuyuan/wuyuan4.jpg" title="Wuyuan2" class="img-fluid rounded-0 z-depth-0" %}
     </div>
-</div>
-
-
+</div> -->
 
 <div class="caption">
     Photos taken in Summer 2023
