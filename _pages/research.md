@@ -28,7 +28,7 @@ nav_order: 1
 
 1. **Weijie Xu** & Richard Futrell. (revise & resubmit). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing. &nbsp; [[preprint]](https://arxiv.org/abs/2503.14728)
 
-1. Charles Torres, **Weijie Xu**, Yanting Li & Richard Futrell. (accepted). Creolization versus code-switching: An agent-based cognitive model for bilingual strategies in language contact. In *The Workshop on Cognitive Modeling and Computational Linguistics*.
+1. Charles Torres, **Weijie Xu**, Yanting Li & Richard Futrell. (accepted). Creolization versus code-switching: An agent-based cognitive model for bilingual strategies in language contact. *The Workshop on Cognitive Modeling and Computational Linguistics*.
 
 1. **Weijie Xu** & Richard Futrell. (2025). Informativity enhances memory robustness against interference in sentence comprehension. *Journal of Memory and Language*, *142*, 104603. &nbsp; [[paper]](https://www.sciencedirect.com/science/article/pii/S0749596X24001062) &nbsp; [[data and code]](https://osf.io/e5dsv/)
 
