@@ -47,6 +47,12 @@ nav_order: 1
 ### Conference presentations
 <p>&nbsp;</p>
 
+##### 2025
+
+6. **Weijie Xu**, Hailin Hao & Richard Futrell. Strategic memory allocation in the dependency locality effect in comprehension. Poster at the 38th Annual Conference on Human Sentence Processing (HSP), College Park, March 27-29.
+
+6. Hailin Hao, **Weijie Xu**, Richard Futrell & Michael Hahn. Information locality in the processing of English object relative clauses. Talk at the 38th Annual Conference on Human Sentence Processing (HSP), College Park, March 27-29.
+
 ##### 2024
 
 5. **Weijie Xu** & Richard Futrell. A hierarchical Bayesian model for syntactic priming. Poster at the 37th Annual Conference on Human Sentence Processing (HSP), Ann Arbor, May 16-18.
