@@ -49,41 +49,43 @@ nav_order: 1
 
 ##### 2025
 
-6. **Weijie Xu**, Hailin Hao & Richard Futrell. Strategic memory allocation in the dependency locality effect in comprehension. Poster at the 38th Annual Conference on Human Sentence Processing (HSP), College Park, March 27-29.
+6. Charles Torres, **Weijie Xu**, Yanting Li & Richard Futrell. Creolization versus code-switching: An agent-based cognitive model for bilingual strategies in language contact. Oral presentation at *the 14th Workshop on Cognitive Modeling and Computational Linguistics (CMCL)*, Albuquerque, May 3.
 
-6. Hailin Hao, **Weijie Xu**, Richard Futrell & Michael Hahn. Information locality in the processing of English object relative clauses. Talk at the 38th Annual Conference on Human Sentence Processing (HSP), College Park, March 27-29.
+6. **Weijie Xu**, Hailin Hao & Richard Futrell. Strategic memory allocation in the dependency locality effect in comprehension. Poster at *the 38th Annual Conference on Human Sentence Processing (HSP)*, College Park, March 27-29.
+
+6. Hailin Hao, **Weijie Xu**, Richard Futrell & Michael Hahn. Information locality in the processing of English object relative clauses. Talk at *the 38th Annual Conference on Human Sentence Processing (HSP)*, College Park, March 27-29.
 
 ##### 2024
 
-5. **Weijie Xu** & Richard Futrell. A hierarchical Bayesian model for syntactic priming. Poster at the 37th Annual Conference on Human Sentence Processing (HSP), Ann Arbor, May 16-18.
+5. **Weijie Xu** & Richard Futrell. A hierarchical Bayesian model for syntactic priming. Poster at *the 37th Annual Conference on Human Sentence Processing (HSP)*, Ann Arbor, May 16-18.
 
-5. **Weijie Xu** & Richard Futrell. Dependency length shaped by strategic memory allocation: A corpus study in 11 language. Poster at the 37th Annual Conference on Human Sentence Processing (HSP), Ann Arbor, May 16-18.
+5. **Weijie Xu** & Richard Futrell. Dependency length shaped by strategic memory allocation: A corpus study in 11 language. Poster at *the 37th Annual Conference on Human Sentence Processing (HSP)*, Ann Arbor, May 16-18.
 
-5. **Weijie Xu** & Richard Futrell. Syntactic dependency length shaped by strategic memory allocation. Oral presentation at the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP), Malta, Mar 21.
+5. **Weijie Xu** & Richard Futrell. Syntactic dependency length shaped by strategic memory allocation. Oral presentation at *the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)*, Malta, Mar 21.
 
-5. **Weijie Xu** & Richard Futrell. Dependency locality shaped by resource rationality: Evidence from English and Spanish. Oral presentation at California Meeting on Psycholinguistics (CAMP), Palo Alto, Jan 13-14.
+5. **Weijie Xu** & Richard Futrell. Dependency locality shaped by resource rationality: Evidence from English and Spanish. Oral presentation at *California Meeting on Psycholinguistics (CAMP)*, Palo Alto, Jan 13-14.
 
-5. **Weijie Xu** & Richard Futrell. A hierarchical Bayesian model for syntactic priming. Poster at California Meeting on Psycholinguistics (CAMP), Palo Alto, Jan 13-14.
+5. **Weijie Xu** & Richard Futrell. A hierarchical Bayesian model for syntactic priming. Poster at *California Meeting on Psycholinguistics (CAMP)*, Palo Alto, Jan 13-14.
 
 ##### 2023
 
-4. **Weijie Xu** & Richard Futrell. Dependency locality optimized for computational rationality. Poster at the 2nd Architectures and Mechanisms for Language Processing Asia (AMLaP Asia), Hong Kong, Dec 1-3. &nbsp; [[pdf]](https://weijiexu-charlie.github.io/assets/pdf/MemDepend_amlapasia23_resubmission.pdf)
+4. **Weijie Xu** & Richard Futrell. Dependency locality optimized for computational rationality. Poster at *the 2nd Architectures and Mechanisms for Language Processing Asia (AMLaP Asia)*, Hong Kong, Dec 1-3. &nbsp; [[pdf]](https://weijiexu-charlie.github.io/assets/pdf/MemDepend_amlapasia23_resubmission.pdf)
 
 ##### 2022
-3. **Weijie Xu** & Richard Futrell. Informativity enhances memory precision in the agreement attraction effect. Poster at the 28th Architectures and Mechanisms for Language Processing (AMLaP), York, Sept 7-9. &nbsp; [[pdf]](https://weijiexu-charlie.github.io/assets/pdf/AgreeAttr_AMLaP22.pdf)
+3. **Weijie Xu** & Richard Futrell. Informativity enhances memory precision in the agreement attraction effect. Poster at *the 28th Architectures and Mechanisms for Language Processing (AMLaP)*, York, Sept 7-9. &nbsp; [[pdf]](https://weijiexu-charlie.github.io/assets/pdf/AgreeAttr_AMLaP22.pdf)
 
-3. **Weijie Xu**, Jiaxuan Li, Ming Xiang & Richard Futrell. Syntactic adaptation to short-term cue-based distributional regularities. Poster at the 44th Annual Conference of the Cognitive Science Society (CogSci), Toronto, July 27-30. &nbsp; [[pdf]](https://weijiexu-charlie.github.io/assets/pdf/CueAdapt_CogSci22_final.pdf)
+3. **Weijie Xu**, Jiaxuan Li, Ming Xiang & Richard Futrell. Syntactic adaptation to short-term cue-based distributional regularities. Poster at *the 44th Annual Conference of the Cognitive Science Society (CogSci)*, Toronto, July 27-30. &nbsp; [[pdf]](https://weijiexu-charlie.github.io/assets/pdf/CueAdapt_CogSci22_final.pdf)
 
-3. **Weijie Xu** & Richard Futrell. Informativity affects memory precision in the agreement attraction effect. Poster at the 35th Annual Conference on Human Sentence Processing (HSP), Santa Cruz, March 24-26.
+3. **Weijie Xu** & Richard Futrell. Informativity affects memory precision in the agreement attraction effect. Poster at *the 35th Annual Conference on Human Sentence Processing (HSP)*, Santa Cruz, March 24-26.
 
-3. **Weijie Xu**, Jiaxuan Li & Ming Xiang. Syntactic adaptation to short-term cue-based distributional regularities. Poster at the 35th Annual Conference on Human Sentence Processing (HSP), Santa Cruz, March 24-26.
+3. **Weijie Xu**, Jiaxuan Li & Ming Xiang. Syntactic adaptation to short-term cue-based distributional regularities. Poster at *the 35th Annual Conference on Human Sentence Processing (HSP)*, Santa Cruz, March 24-26.
 
 
 ##### 2021
-2. **Weijie Xu** & Ming Xiang. Is there a predictability hierarchy in reference resolution? Poster at the 43rd Annual Conference of the Cognitive Science Society (CogSci), Vienna, July 26-29. &nbsp; [[pdf]](https://escholarship.org/uc/item/4mg9786g)
+2. **Weijie Xu** & Ming Xiang. Is there a predictability hierarchy in reference resolution? Poster at *the 43rd Annual Conference of the Cognitive Science Society (CogSci)*, Vienna, July 26-29. &nbsp; [[pdf]](https://escholarship.org/uc/item/4mg9786g)
 
-2. **Weijie Xu** & Ming Xiang. Processing referring expressions: accessibility is not predictability. Poster at the 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia, March 4-6. &nbsp; [[pdf]](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_93.pdf)
+2. **Weijie Xu** & Ming Xiang. Processing referring expressions: accessibility is not predictability. Poster at *the 34th Annual CUNY Conference on Human Sentence Processing*, Philadelphia, March 4-6. &nbsp; [[pdf]](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_93.pdf)
 
-2. Ming Xiang & **Weijie Xu**. Reanalysis difficulty modulates cumulative structural priming effects in sentence comprehension. Poster at the 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia, March 4-6. &nbsp; [[pdf]](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_95.pdf)
+2. Ming Xiang & **Weijie Xu**. Reanalysis difficulty modulates cumulative structural priming effects in sentence comprehension. Poster at *the 34th Annual CUNY Conference on Human Sentence Processing*, Philadelphia, March 4-6. &nbsp; [[pdf]](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_95.pdf)
 
-2. Ming Xiang, Christine Gu, Yixue Quan, **Weijie Xu** & Suiping Wang. Probability matching vs. regularization in contact-induced syntactic change. Poster at the 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia, March 4-6.   [[pdf]](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_179.pdf)
+2. Ming Xiang, Christine Gu, Yixue Quan, **Weijie Xu** & Suiping Wang. Probability matching vs. regularization in contact-induced syntactic change. Poster at *the 34th Annual CUNY Conference on Human Sentence Processing*, Philadelphia, March 4-6.   [[pdf]](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_179.pdf)
