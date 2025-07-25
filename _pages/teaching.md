@@ -12,7 +12,12 @@ nav_order: 2
 
 #### University of California, Irvine
 
-*Teaching Assistant*
+##### Instructor of Record
+
+| LSCI 2: Discovering Language    | Summer 2025 |
+
+
+##### Teaching Assistant
 
 - PSYCH 129: &nbsp; Evolutionary Psychology
 - LSCI 20: &nbsp; Introduction to Syntax
