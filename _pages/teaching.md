@@ -10,6 +10,8 @@ nav_order: 2
 
 ## University of California, Irvine
 
+---
+
 ### Instructor of Record
 
 - **LSCI 2**: *Discovering Language* (Summer 2025)
