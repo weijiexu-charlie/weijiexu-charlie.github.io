@@ -16,7 +16,7 @@ nav_order: 2
 
 ##### Instructor of Record
 
-- `LSci 2`  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Discovering Language** &nbsp; &nbsp; *Summer 2025*
+- `LSci 2`  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Discovering Language** &nbsp; &nbsp; <span style="float: right;">*Summer 2025*</span>
 
 ##### Teaching Assistant
 
