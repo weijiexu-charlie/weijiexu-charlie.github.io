@@ -15,7 +15,7 @@ nav_order: 2
 
 ##### Instructor of Record
 
-- LSCI 2: &nbsp; Discovering Language (Summer 2025)
+- LSCI 2: &nbsp; Discovering Language &nbsp; (Summer 2025)
 
 
 ##### Teaching Assistant
