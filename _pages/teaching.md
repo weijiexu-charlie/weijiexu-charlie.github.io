@@ -8,42 +8,21 @@ nav: true
 nav_order: 2
 ---
 
-<div class="container mt-4">
+## University of California, Irvine
 
-### University of California, Irvine
+### Instructor of Record
 
-#### Instructor of Record
+- **LSCI 2**: *Discovering Language* (Summer 2025)
 
-<div class="mb-3">
-<ul>
-  <li><strong>LSCI 2:</strong> <span class="text-muted">Discovering Language</span> <span class="text-muted">(Summer 2025)</span></li>
-</ul>
-</div>
+### Teaching Assistant
 
-#### Teaching Assistant
+- **LSCI 3**: *Introduction to Linguistics* (Winter 2022, Fall 2022, Winter 2023, Winter 2025)
+- **LSCI 20**: *Introduction to Syntax* (Spring 2024)
+- **LSCI 155**: *Psychology of Language* (Winter 2024)
+- **PSYCH 9a**: *Psychology Fundamentals* (Spring 2025)
+- **PSYCH 129**: *Evolutionary Psychology* (Fall 2024)
+- **SocSci 70C**: *Comparing Cultures* (Spring 2022)
 
-<div class="mb-3">
-<ul>
-  <li><strong>LSCI 3:</strong> <span class="text-muted">Introduction to Linguistics</span> <span class="text-muted">(Winter 2022, Fall 2022, Winter 2023, Winter 2025)</span></li>
-  <li><strong>LSCI 20:</strong> <span class="text-muted">Introduction to Syntax</span> <span class="text-muted">(Spring 2024)</span></li>
-  <li><strong>LSCI 155:</strong> <span class="text-muted">Psychology of Language</span> <span class="text-muted">(Winter 2024)</span></li>
-  <li><strong>PSYCH 9a:</strong> <span class="text-muted">Psychology Fundamentals</span> <span class="text-muted">(Spring 2025)</span></li>
-  <li><strong>PSYCH 129:</strong> <span class="text-muted">Evolutionary Psychology</span> <span class="text-muted">(Fall 2024)</span></li>
-  <li><strong>SocSci 70C:</strong> <span class="text-muted">Comparing Cultures</span> <span class="text-muted">(Spring 2022)</span></li>
-</ul>
-</div>
+### Mentor
 
-#### Mentor
-
-<div class="mb-3">
-<ul>
-  <li><strong>LSCI 159:</strong> <span class="text-muted">Experimental Method</span> <span class="text-muted">(Spring 2025)</span></li>
-</ul>
-</div>
-
-<!-- Optional: Add brief descriptions or links to syllabi -->
-<!--
-You can include course syllabi or sample assignments:
-- [LSCI 2 Syllabus (PDF)](/assets/teaching/lsci2_syllabus.pdf)
--->
-</div>
+- **LSCI 159**: *Experimental Method* (Spring 2025)
