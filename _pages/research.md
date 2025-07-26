@@ -28,6 +28,8 @@ nav_order: 1
 
 1. **Weijie Xu** & Richard Futrell. (revise & resubmit). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing. &nbsp; [[preprint]](https://arxiv.org/abs/2503.14728)
 
+1. **Weijie Xu** & Ming Xiang. (in prep). Priming without adaptation: In search of adapted expectation bias in syntactic comprehension.
+
 1. Charles Torres, **Weijie Xu**, Yanting Li & Richard Futrell. (2025). Creolization versus code-switching: An agent-based cognitive model for bilingual strategies in language contact. *The Workshop on Cognitive Modeling and Computational Linguistics*.  &nbsp; [[paper]](https://aclanthology.org/2025.cmcl-1.25/) &nbsp; [[code]](https://github.com/cj-torres/creolization-codeswitching)
 
 1. **Weijie Xu** & Richard Futrell. (2025). Informativity enhances memory robustness against interference in sentence comprehension. *Journal of Memory and Language*, *142*, 104603. &nbsp; [[paper]](https://www.sciencedirect.com/science/article/pii/S0749596X24001062) &nbsp; [[data and code]](https://osf.io/e5dsv/)
