@@ -8,15 +8,15 @@ nav: true
 nav_order: 2
 ---
 
-## University of California, Irvine
+#### University of California, Irvine
 
 ---
 
-### Instructor of Record
+##### Instructor of Record
 
 - **LSCI 2**: *Discovering Language* (Summer 2025)
 
-### Teaching Assistant
+##### Teaching Assistant
 
 - **LSCI 3**: *Introduction to Linguistics* (Winter 2022, Fall 2022, Winter 2023, Winter 2025)
 - **LSCI 20**: *Introduction to Syntax* (Spring 2024)
@@ -25,6 +25,6 @@ nav_order: 2
 - **PSYCH 129**: *Evolutionary Psychology* (Fall 2024)
 - **SocSci 70C**: *Comparing Cultures* (Spring 2022)
 
-### Mentor
+##### Mentor
 
 - **LSCI 159**: *Experimental Method* (Spring 2025)
