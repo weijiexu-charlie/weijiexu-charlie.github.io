@@ -96,6 +96,6 @@ category: China
 
 
 <div class="caption">
-    Photos taken in Aug 2023 in Nanchang
+    Photos taken in Nanchang (Sept 2023)
 </div>
 
