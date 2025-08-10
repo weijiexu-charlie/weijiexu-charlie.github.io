@@ -86,7 +86,7 @@ category: China
         {% include figure.html path="assets/img/Nanchang/Nanchang11.jpg" title="邮政路" class="img-fluid rounded-0 z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Nanchang/Nanchang12.jpg" title="后墙路" class="img-fluid rounded-0 z-depth-0" %}
+        {% include figure.html path="assets/img/Nanchang/Nanchang13.jpg" title="金塔东" class="img-fluid rounded-0 z-depth-0" %}
     </div>
 </div>
 
