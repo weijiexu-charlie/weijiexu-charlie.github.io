@@ -1,13 +1,13 @@
 ---
 layout: page
-title: non-academic
+title: submenus
 nav: true
-nav_order: 4
+nav_order: 8
 dropdown: true
 children:
-    - title: 南北东西路
-      permalink: /outandabout/
-    # - title: divider
-    # - title: projects
-    #   permalink: /projects/
+  - title: bookshelf
+    permalink: /books/
+  - title: divider
+  - title: blog
+    permalink: /blog/
 ---
