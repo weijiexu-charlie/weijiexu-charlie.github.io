@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. student in Language Science at University of California, Irvine. I am a member of the [Language Processing Group](https://langprocgroup.github.io/) working with [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). My area of specialization is computational psycholinguistics. 
+I am a Ph.D. student in Language Science at the University of California, Irvine. I am a member of the [Language Processing Group](https://langprocgroup.github.io/) working with [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). My area of specialization is computational psycholinguistics. 
 
-Our cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge.
+Human cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge.
 
 To answer this question, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods (both behavioral and neural) and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
 
