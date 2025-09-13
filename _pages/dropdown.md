@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Non-Academic
+title: non-academic
 nav: true
 nav_order: 4
 dropdown: true
