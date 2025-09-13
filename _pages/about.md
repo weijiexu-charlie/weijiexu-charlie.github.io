@@ -24,7 +24,7 @@ I am a Ph.D. student in Language Science at the University of California, Irvine
 
 Human cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge.
 
-To answer this question, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods (both behavioral and neural) and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
+To answer this question, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
 
 Before coming to UC Irvine, I obtained my M.A. in Computational Social Science from the University of Chicago, where I worked in the [Language Processing Lab](https://lucian.uchicago.edu/blogs/lpl/) with [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/). Prior to linguistics, I obtained my B.A. in Spanish from Shanghai International Studies University in China.
 
