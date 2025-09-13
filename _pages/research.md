@@ -9,8 +9,6 @@ nav_order: 1
 
 <p>&nbsp;</p>
 
-<div class="research">
-
 ### Peer-reviewed papers 
 <p>&nbsp;</p>
 
@@ -79,5 +77,3 @@ nav_order: 1
 2. Ming Xiang & **Weijie Xu**. Reanalysis difficulty modulates cumulative structural priming effects in sentence comprehension. Poster at *the 34th Annual CUNY Conference on Human Sentence Processing*, Philadelphia, March 4-6. &nbsp; [[pdf]](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_95.pdf)
 
 2. Ming Xiang, Christine Gu, Yixue Quan, **Weijie Xu** & Suiping Wang. Probability matching vs. regularization in contact-induced syntactic change. Poster at *the 34th Annual CUNY Conference on Human Sentence Processing*, Philadelphia, March 4-6.   [[pdf]](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_179.pdf)
-
-</div>
