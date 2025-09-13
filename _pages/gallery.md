@@ -5,8 +5,6 @@ permalink: /outandabout/
 description: OUT AND ABOUT
 nav: false
 nav_order: 4
-# display_categories: [north america]
-horizontal: false
 ---
 
 <br/>
