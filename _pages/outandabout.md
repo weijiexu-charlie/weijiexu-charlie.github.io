@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: 南北东西路
 permalink: /outandabout/
-description: A growing collection of your cool projects.
+description: OUT AND ABOUT
 nav: false
 nav_order: 4
-display_categories: [work, fun]
+# display_categories: [work, fun]
 horizontal: false
 ---
 
