@@ -7,7 +7,7 @@ dropdown: true
 children:
     - title: 南北东西路
       permalink: /projects/
-    # - title: divider
-    # - title: projects
-    #   permalink: /projects/
+    - title: divider
+    - title: projects
+      permalink: /projects/
 ---
