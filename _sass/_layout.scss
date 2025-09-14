@@ -64,7 +64,7 @@ h1 em, h2 em {
 
 /* Make the Chinese name in the title regular weight */
 .navbar-brand .title-secondary {
-  font-weight: 400;
+  font-weight: 400 !important;
 }
 
 // Profile
