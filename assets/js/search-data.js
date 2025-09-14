@@ -416,7 +416,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-库斯科的大山",
+          section: "News",},{id: "projects-施普雷河与小火车",
+          title: '施普雷河与小火车',
+          description: "THE TRAINS OVER THE SPREE",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/berlin/";
+            },},{id: "projects-库斯科的大山",
           title: '库斯科的大山',
           description: "THE MOUNTAINS OF CUSCO",
           section: "Projects",handler: () => {
