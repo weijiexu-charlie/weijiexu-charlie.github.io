@@ -62,16 +62,25 @@ h1 em, h2 em {
   font-weight: 600; 
 }
 
+/* --- Smaller Chinese glyphs --- */
+
+/* 1. Map Chinese codepoints to a dedicated face */
 @font-face {
   font-family: 'Noto Serif SC small';
   src: local('Noto Serif SC');
-  unicode-range: U+4E00-9FFF;   /* CJK Unified Ideographs */
+  unicode-range: U+4E00-9FFF; /* CJK Unified Ideographs */
   font-display: swap;
 }
 
-.chinese-text {
-  font-family: 'Noto Serif SC small', serif;
-  font-size: 1em;
+/* 2. Use that face and shrink it */
+body {
+  font-family: 'EB Garamond', 'Noto Serif SC small', serif;
+}
+
+/* 3. Scale Chinese to ~90% */
+
+body {
+  font-feature-settings: "kern";
 }
 
 // Profile
