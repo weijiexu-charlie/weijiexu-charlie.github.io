@@ -416,7 +416,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-密歇根湖",
+          section: "News",},{id: "projects-库斯科的大山",
+          title: '库斯科的大山',
+          description: "THE MOUNTAINS OF CUSCO",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cusco/";
+            },},{id: "projects-密歇根湖",
           title: '密歇根湖',
           description: "LAKE MICHIGAN",
           section: "Projects",handler: () => {
