@@ -30,7 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-南北东西路",
+              title: "南北东西路",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/outandabout/";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
