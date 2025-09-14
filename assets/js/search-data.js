@@ -431,6 +431,16 @@ ninja.data = [{
           description: "LAKE MICHIGAN",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lake_michigan/";
+            },},{id: "projects-老-闵",
+          title: '老 闵',
+          description: "LAO MIN",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nanchang/";
+            },},{id: "projects-马头墙下",
+          title: '马头墙下',
+          description: "THE HORSE-HEAD WALLS",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wuyuan/";
             },},{
         id: 'social-email',
         title: 'email',
