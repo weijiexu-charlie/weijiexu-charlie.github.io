@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 # title: Weijie Xu&nbsp;|&nbsp;徐 炜 杰
 first_name: Weijie
 middle_name:
