@@ -6,8 +6,7 @@ title: Weijie Xu&nbsp;|&nbsp;徐 炜 杰 # the website title (if blank, full nam
 first_name: Weijie
 middle_name:
 last_name: Xu
-contact_note: >
-  weijie.xu@uci.edu
+# contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Language Science PhD Student at UC Irvine
 # footer_text: >
