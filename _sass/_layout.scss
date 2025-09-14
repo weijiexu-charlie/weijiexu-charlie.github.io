@@ -38,8 +38,14 @@ body.sticky-bottom-footer {
   }
 }
 
-.profile {
-  margin-left: 2rem;
+.profile.float-left img {
+  margin-right: 1rem;  
+  margin-left: 0;      
+}
+
+.profile.float-right img {
+  margin-left: 1rem;
+  margin-right: 0;
 }
 
 body {
