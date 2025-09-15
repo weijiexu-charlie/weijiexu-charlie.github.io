@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title:
+title: Teaching
 description: 
 nav: true
 nav_order: 2
+hide_title: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/Covers/teaching_cover.jpg" class="img-fluid rounded-0 z-depth-0" %}

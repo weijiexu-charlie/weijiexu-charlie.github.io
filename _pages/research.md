@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /research/
-title:
+title: Research
 description: 
 nav: true
 nav_order: 1
+hide_title: true
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/Covers/research_cover.jpg" class="img-fluid rounded-0 z-depth-0" %}
