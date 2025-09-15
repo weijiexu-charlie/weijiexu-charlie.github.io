@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/Covers/research_cover.png" class="img-fluid rounded-0 z-depth-0" %}
+
 <p>&nbsp;</p>
 
 ### Peer-reviewed papers 
