@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/Covers/teaching_cover.jpg" class="img-fluid rounded-0 z-depth-0" %}
+
 <p>&nbsp;</p>
 
 #### University of California, Irvine
