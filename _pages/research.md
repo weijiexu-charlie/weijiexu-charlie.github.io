@@ -17,7 +17,7 @@ hide_title: true
 
 1. **Weijie Xu** & Richard Futrell. (revise & resubmit). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing. &nbsp; [[preprint]](https://arxiv.org/abs/2503.14728)
 
-1. **Weijie Xu** & Ming Xiang. (in prep). Priming without adaptation: In search of adapted expectation bias in syntactic comprehension.
+1. **Weijie Xu** & Ming Xiang. (submitted). Priming without adaptation: In search of adapted expectation bias in syntactic comprehension.
 
 1. Charles Torres, **Weijie Xu**, Yanting Li & Richard Futrell. (2025). Creolization versus code-switching: An agent-based cognitive model for bilingual strategies in language contact. *The Workshop on Cognitive Modeling and Computational Linguistics*.  &nbsp; [[paper]](https://aclanthology.org/2025.cmcl-1.25/) &nbsp; [[code]](https://github.com/cj-torres/creolization-codeswitching)
 
@@ -33,12 +33,16 @@ hide_title: true
 
 1. **Weijie Xu** & Ming Xiang. (2021). Is there a predictability hierarchy in reference resolution? In *Proceedings of the Annual Meeting of the Cognitive Science Society*, 43. &nbsp; [[paper]](https://escholarship.org/uc/item/4mg9786g)
 
+
 <p>&nbsp;</p>
+
 
 ### Conference presentations
 <p>&nbsp;</p>
 
 ##### 2025
+
+6. Jiaxuan Li, **Weijie Xu**, Judith Kroll & Xin Xie. Adapting to foreign-accented speech: ERP evidence of interactions between phonetic and semantic processes. Poster at *Society for the Neurobiology of Language (SNL) 17th Annual Meeing*, Washington DC.
 
 6. Charles Torres, **Weijie Xu**, Yanting Li & Richard Futrell. Creolization versus code-switching: An agent-based cognitive model for bilingual strategies in language contact. Oral presentation at *the 14th Workshop on Cognitive Modeling and Computational Linguistics (CMCL)*, Albuquerque, May 3.
 
