@@ -10,4 +10,4 @@ description:
 #   sidebar: left
 ---
 
-[download my CV here](https://weijiexu-charlie.github.io/assets/pdf/Weijie_Xu_CV.pdf) (last update: June, 2025)
+[download my CV here](https://weijiexu-charlie.github.io/assets/pdf/Weijie_Xu_CV.pdf) (last update: Nov, 2025)
