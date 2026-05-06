@@ -15,7 +15,9 @@ hide_title: true
 ### Peer-reviewed papers 
 <p>&nbsp;</p>
 
-1. **Weijie Xu** & Ming Xiang. (submitted). Priming without adaptation: In search of adapted expectation bias in syntactic comprehension.
+1. **Weijie Xu**, Brian Dillon & Richard Futrell. (to appear). Memory efficiency and resource-rational encoding in sentence processing. *ACL 2026*.
+
+1. **Weijie Xu**, Hailin Hao & Richard Futrell. (to appear). Strategic allocation of memory resources through the lens of dependency locality: Evidence from a controlled reading experiment. *CogSci 2026*.
 
 1. **Weijie Xu** & Richard Futrell. (2026). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing. &nbsp; *Journal of Memory and Language*, *146*, 104706. &nbsp; [[paper]](https://www.sciencedirect.com/science/article/pii/S0749596X25000993) &nbsp; [[code]](https://osf.io/yf4ca/)
 
