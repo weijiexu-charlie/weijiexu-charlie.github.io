@@ -33,6 +33,6 @@ Human cognitive system is bounded by considerable constraints, yet remarkably it
 
 To answer this question, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
 
-Before coming to UC Irvine, I obtained my M.A. in Computational Social Science from the University of Chicago, where I worked in the [Language Processing Lab](https://lucian.uchicago.edu/blogs/lpl/) with [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/). Prior to linguistics, I obtained my B.A. in Spanish from Shanghai International Studies University in China.
+Before coming to UC Irvine, I obtained my M.A. in Computational Social Science from the University of Chicago, where I worked in the [Language Processing Lab](https://lucian.uchicago.edu/blogs/lpl/) with [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/). Prior to linguistics, I obtained my B.A. in Spanish Language and Literature from Shanghai International Studies University in China.
 
 Born in Nanchang, the capital city of Jiangxi Province in China, I am a native speaker of both Mandarin Chinese and [Gan Chinese -- Chang-Du (赣语-昌都片)](https://en.wikipedia.org/wiki/Chang-Du_Gan).
