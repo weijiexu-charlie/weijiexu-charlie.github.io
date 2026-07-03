@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='https://www.langsci.uci.edu/'>Language Science</a> Ph.D. Student at UC Irvine <br> Incoming postdoctoral researcher at the <a href='https://www.umass.edu/linguistics/'>Department of Linguistics</a> at UMass Amherst (starting in Fall 2026) <br> Email: weijie.xu@uci.edu"
+subtitle: "<a href='https://www.langsci.uci.edu/'>Language Science</a> Ph.D. Student at UC Irvine <br> Incoming Postdoctoral Researcher at the <a href='https://www.umass.edu/linguistics/'>Department of Linguistics</a> at UMass Amherst (starting in Fall 2026) <br> Email: weijie.xu@uci.edu"
 
 profile:
   align: right
