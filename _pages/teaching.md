@@ -22,7 +22,7 @@ hide_title: true
 
 ##### Teaching Assistant
 
-- `LSci 3`  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Introduction to Linguistics** &nbsp; &nbsp; &nbsp; *Winter 2022, Fall 2022, Winter 2023, Winter 2025*
+- `LSci 3`  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Introduction to Linguistics** &nbsp; &nbsp; &nbsp; *Winter 2022, Fall 2022, Winter 2023, Winter 2025, Fall 2025*
 - `LSci 20` &nbsp; &nbsp; &nbsp; &nbsp; **Introduction to Syntax** &nbsp; &nbsp; &nbsp; *Spring 2024*
 - `LSci 155` &nbsp; &nbsp; &nbsp; **Psychology of Language** &nbsp; &nbsp; &nbsp; *Winter 2024*
 - `Psych 9a` &nbsp; &nbsp; &nbsp; **Psychology Fundamentals** &nbsp; &nbsp; &nbsp; *Spring 2025*
