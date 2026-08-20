@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='https://www.langsci.uci.edu/'>Language Science</a> Ph.D. Student at UC Irvine <br> Incoming Postdoctoral Researcher at the <a href='https://www.umass.edu/linguistics/'>Department of Linguistics</a> at UMass Amherst (starting in Fall 2026) <br> Email: weijie.xu@uci.edu"
+subtitle: "Postdoctoral Research Associate in <a href='https://www.umass.edu/linguistics/'>Linguistics</a> at UMass Amherst <br> Email: weijiexu@umass.edu"
 
 profile:
   align: right
@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Language Science at the University of California, Irvine. I am a member of the [Language Processing Group](https://langprocgroup.github.io/) working with [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). My area of specialization is computational psycholinguistics. 
+I am a Postdoctoral Research Associate in Linguistics at the University of Massachusetts, Amherst. I am a member of the [Computational Sentence Processing Lab](https://people.umass.edu/bwdillon/compsentproc.html) working with [Dr. Brian Dillon](https://people.umass.edu/bwdillon/?_gl=1*md20qh*_gcl_au*NjU5Mjc1MTM4LjE3ODY1NTY2NDM.*_ga*NTEzMzE4MzUxLjE3Nzg3NzEyMjk.*_ga_21RLS0L7EB*czE3ODcyNjk4MDUkbzMxJGcxJHQxNzg3MjY5ODY1JGo2MCRsMCRoMA..). My area of specialization is computational psycholinguistics. 
 
 Our cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge.
 
 To achieve this goal, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
 
-Before coming to UC Irvine, I obtained my M.A. in Computational Social Science from the University of Chicago, where I worked in the [Language Processing Lab](https://lucian.uchicago.edu/blogs/lpl/) with [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/). Prior to linguistics, I obtained my B.A. in Spanish Language and Literature from Shanghai International Studies University in China.
+I received my Ph.D. in [Language Science](https://www.langsci.uci.edu/) from University of California Irvine, working with [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). Before that, I earned my M.A. in Computational Social Science from the University of Chicago, where I worked with [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/). Prior to entering the field of linguistics, I earned my B.A. in Spanish Language and Literature from Shanghai International Studies University in China.
 
-Born in Nanchang, the capital city of Jiangxi Province in China, I am a native speaker of both Mandarin Chinese and [Gan Chinese -- Chang-Du (赣语-昌都片)](https://en.wikipedia.org/wiki/Chang-Du_Gan).
+Born in Nanchang, the capital city of Jiangxi Province in China, I am a native speaker of both Mandarin Chinese and [Gan Chinese -- Nanchang Dialect (赣语-南昌话)](https://en.wikipedia.org/wiki/Chang-Du_Gan).
