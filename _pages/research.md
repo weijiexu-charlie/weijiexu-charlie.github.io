@@ -15,11 +15,11 @@ hide_title: true
 ### Peer-reviewed papers 
 <p>&nbsp;</p>
 
-1. **Weijie Xu**, Hailin Hao & Richard Futrell. (to appear). Strategic allocation of memory resources through the lens of dependency locality: Evidence from a controlled reading experiment. *CogSci 2026*.
-
 1. **Weijie Xu**, Brian Dillon & Richard Futrell. (2026). Memory efficiency and resource-rational encoding in sentence processing. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*. &nbsp; <mark style="background-color: #F1EEE6; color: #643615; font-weight: bold;"> &nbsp; Best Paper Award &nbsp; </mark> &nbsp; [[paper]](https://aclanthology.org/2026.acl-long.1550/) &nbsp; [[code]](https://github.com/weijiexu-charlie/resource-rational-encoding)
 
 1. **Weijie Xu** & Richard Futrell. (2026). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing. &nbsp; *Journal of Memory and Language*, *146*, 104706. &nbsp; [[paper]](https://www.sciencedirect.com/science/article/pii/S0749596X25000993) &nbsp; [[code]](https://osf.io/yf4ca/)
+
+1. **Weijie Xu**, Hailin Hao & Richard Futrell. (2026). Strategic allocation of memory resources through the lens of dependency locality: Evidence from a controlled reading experiment. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 48). &nbsp; [[paper]](https://escholarship.org/uc/item/09j052r0)
 
 1. Charles Torres, **Weijie Xu**, Yanting Li & Richard Futrell. (2025). Creolization versus code-switching: An agent-based cognitive model for bilingual strategies in language contact. *The Workshop on Cognitive Modeling and Computational Linguistics*.  &nbsp; [[paper]](https://aclanthology.org/2025.cmcl-1.25/) &nbsp; [[code]](https://github.com/cj-torres/creolization-codeswitching)
 
