@@ -84,7 +84,7 @@ h1 em, h2 em {
 
 .header-underline {
   font-family: 'Montserrat', sans-serif !important;
-  font-weight: 600;
+  font-weight: 700;
 
   position: relative;
   display: inline-block;
@@ -94,7 +94,7 @@ h1 em, h2 em {
     content: '';
     position: absolute;
     left: 0%;
-    bottom: -5px;
+    bottom: 5px;
     width: 100%;
     height: 8px;
     background-color: #643615;
