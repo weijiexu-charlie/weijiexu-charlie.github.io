@@ -29,7 +29,9 @@ latest_posts:
 
 I am a Postdoctoral Research Associate in Linguistics at UMass Amherst. I am a member of the [Computational Sentence Processing Lab](https://people.umass.edu/bwdillon/compsentproc.html) working with [Dr. Brian Dillon](https://people.umass.edu/bwdillon/?_gl=1*md20qh*_gcl_au*NjU5Mjc1MTM4LjE3ODY1NTY2NDM.*_ga*NTEzMzE4MzUxLjE3Nzg3NzEyMjk.*_ga_21RLS0L7EB*czE3ODcyNjk4MDUkbzMxJGcxJHQxNzg3MjY5ODY1JGo2MCRsMCRoMA..). My area of specialization is computational psycholinguistics. 
 
-Our cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge.
+<!-- Our cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge. -->
+
+The goal of my research is to answer: (i) what are the computational problems in language processing and learning? (ii) how are these problems solved by our cognitive system? (iii) how do those cognitive solutions shape the mechanisms and representations underlying human language faculty? I aim to develop psycholinguistic theories in terms of deeper principles about how human cognition operates under resource constraints. At the same time, I aim to provide functionalist explanations grounded in psycholinguistic theories for why languages are structured the way they are.
 
 To achieve this goal, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
 
