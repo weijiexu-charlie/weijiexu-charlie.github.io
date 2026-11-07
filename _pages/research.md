@@ -12,9 +12,9 @@ hide_title: true
 
 <p>&nbsp;</p>
 
-<h4>
+<h5>
   <span class="header-underline">PEER-REVIEWED PAPERS</span>
-</h4>
+</h5>
 <!-- ### Peer-reviewed papers  -->
 
 <p>&nbsp;</p>
@@ -45,9 +45,9 @@ hide_title: true
 <p>&nbsp;</p>
 
 
-<h4>
+<h5>
   <span class="header-underline">CONFERENCE PRESENTATIONS</span>
-</h4>
+</h5>
 <!-- ### Conference presentations -->
 
 <p>&nbsp;</p>
