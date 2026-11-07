@@ -12,9 +12,14 @@ hide_title: true
 
 <p>&nbsp;</p>
 
-#### University of California, Irvine
+<h5>
+  <span class="header-underline">UC IRVINE</span>
+</h5>
+<!-- #### University of California, Irvine -->
 
----
+<p>&nbsp;</p>
+
+<!-- --- -->
 
 ##### Instructor of Record
 
