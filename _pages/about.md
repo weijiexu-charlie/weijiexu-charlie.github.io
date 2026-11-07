@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: ABOUT
 permalink: /
 subtitle: "Postdoctoral Research Associate in <a href='https://www.umass.edu/linguistics/'>Linguistics</a> at UMass Amherst <br> Email: weijiexu@umass.edu"
 
