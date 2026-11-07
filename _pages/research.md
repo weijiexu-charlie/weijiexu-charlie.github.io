@@ -45,7 +45,11 @@ hide_title: true
 <p>&nbsp;</p>
 
 
-### Conference presentations
+<h3>
+  <span class="highlight-underline">Conference presentations</span>
+</h3>
+<!-- ### Conference presentations -->
+
 <p>&nbsp;</p>
 
 ##### 2026
