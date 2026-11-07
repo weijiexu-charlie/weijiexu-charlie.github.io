@@ -13,7 +13,7 @@ hide_title: true
 <p>&nbsp;</p>
 
 <h3>
-  <span class="highlight-underline">Research</span>
+  <span class="highlight-underline">Peer-reviewed papers</span>
 </h3>
 <!-- ### Peer-reviewed papers  -->
 
