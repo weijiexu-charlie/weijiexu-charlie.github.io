@@ -12,7 +12,11 @@ hide_title: true
 
 <p>&nbsp;</p>
 
-### Peer-reviewed papers 
+<h3>
+  <span class="highlight-underline">Research</span>
+</h3>
+<!-- ### Peer-reviewed papers  -->
+
 <p>&nbsp;</p>
 
 1. **Weijie Xu**, Hailin Hao & Sanghee Kim. (to appear). Accessibility of semantic content across discourse boundaries. &nbsp; In *Experiments in Linguistic Meaning*, *4*.
