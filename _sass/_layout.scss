@@ -82,14 +82,14 @@ h1 em, h2 em {
 }
 
 
-.navbar .navbar-nav .nav-item {
-  display: flex;
-  align-items: stretch;
+/////// Begin modified
+
+.navbar {
+  --nav-bottom-padding: 8px;
+  padding-bottom: var(--nav-bottom-padding);
 }
 
 .navbar .navbar-nav .nav-link {
-  display: flex;
-  align-items: center;
   position: relative;
 }
 
@@ -97,14 +97,14 @@ h1 em, h2 em {
 .navbar .navbar-nav .nav-item.active > .nav-link::after {
   content: '';
   position: absolute;
-  bottom: 0;
+  bottom: calc(-1 * var(--nav-bottom-padding));
   left: 10%;
   width: 80%;
   height: 4px;
   background-color: #643615;
 }
 
-
+/////// End modified
 
 
 
