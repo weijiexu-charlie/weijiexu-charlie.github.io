@@ -136,24 +136,34 @@ h1 em, h2 em {
   }
 }
 
-
 .page-link-in-text {
   color: #643615 !important;
 
-  text-decoration-line: underline !important;
+  text-decoration: underline !important;
   text-decoration-color: #643615 !important;
   text-decoration-thickness: 1.5px;
   text-underline-offset: 2px;
   text-decoration-skip-ink: auto;
-
-  &:hover,
-  &:focus,
-  &:visited {
-    color: #643615 !important;
-    text-decoration-line: underline !important;
-    text-decoration-color: #643615 !important;
-  }
 }
+
+
+// .page-link-in-text {
+//   color: #643615 !important;
+
+//   text-decoration-line: underline !important;
+//   text-decoration-color: #643615 !important;
+//   text-decoration-thickness: 1.5px;
+//   text-underline-offset: 2px;
+//   text-decoration-skip-ink: auto;
+
+//   &:hover,
+//   &:focus,
+//   &:visited {
+//     color: #643615 !important;
+//     text-decoration-line: underline !important;
+//     text-decoration-color: #643615 !important;
+//   }
+// }
 
 
 // .page-link-in-text {
