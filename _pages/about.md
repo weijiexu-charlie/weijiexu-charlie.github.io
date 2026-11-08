@@ -50,7 +50,7 @@ I am a Postdoctoral Research Associate in Linguistics at UMass Amherst. I am a m
 
 In answering these questions, I aim to develop psycholinguistic theories in terms of deeper principles about how human cognition operates under resource constraints. At the same time, I aim to provide functionalist explanations grounded in psycholinguistic theories for why languages are structured the way they are.
 
-To achieve this goal, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
+To achieve these goals, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
 
 ---
 
