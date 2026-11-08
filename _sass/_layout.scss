@@ -234,14 +234,18 @@ h1 em, h2 em {
 
 
 ol.research-goals-list {
-  // font-family: 'Poppins', sans-serif !important;
-  // font-size: 1rem;
-  font-weight: 600;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 0.9rem;
+  font-weight: 700;
+
+  background-color: #F5F5F5; // Light grey background
+  border: none;
+  border-radius: 0;          // Square corners (optional)
 
   margin-top: 1.5rem;
-  margin-bottom: 1.0rem;
-  padding-left: 4rem;
-  padding-right: 4rem;
+  margin-bottom: 1rem;
+
+  padding: 1.5rem 4rem;      // Vertical and horizontal padding
 
   li {
     margin-bottom: 0.5rem;
@@ -252,6 +256,28 @@ ol.research-goals-list {
     margin-bottom: 0;
   }
 }
+
+
+
+// ol.research-goals-list {
+//   // font-family: 'Poppins', sans-serif !important;
+//   // font-size: 1rem;
+//   font-weight: 600;
+
+//   margin-top: 1.5rem;
+//   margin-bottom: 1.0rem;
+//   padding-left: 4rem;
+//   padding-right: 4rem;
+
+//   li {
+//     margin-bottom: 0.5rem;
+//     line-height: 1.4;
+//   }
+
+//   li:last-child {
+//     margin-bottom: 0;
+//   }
+// }
 
 
 // Custom profile picture layout for desktop only
@@ -274,24 +300,6 @@ ol.research-goals-list {
     height: auto;
   }
 }
-
-
-// @media (min-width: 768px) {
-//   .post .profile {
-//     float: right;
-//     width: 23%;
-//     margin-left: 8rem;
-//     margin-right: 2rem;
-//     margin-top: -105px;  // Moves the picture upward
-//     margin-bottom: 0.5rem;
-//     z-index: 1;
-//   }
-
-//   .post .profile img {
-//     width: 100%;
-//     height: auto;
-//   }
-// }
 
 
 
