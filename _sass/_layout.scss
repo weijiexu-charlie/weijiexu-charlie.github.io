@@ -254,20 +254,22 @@ ol.research-goals-list {
 }
 
 
-// About page profile picture
-.post .profile {
-  float: right;
-  width: 23%;
-  margin-left: 5rem;
-  margin-right: 2rem;
-  margin-top: -105px;  // Moves the picture upward
-  margin-bottom: 1rem;
-  z-index: 1;
-}
+// Custom profile picture layout for desktop only
+@media (min-width: 768px) {
+  .post .profile {
+    float: right;
+    width: 23%;
+    margin-left: 8rem;
+    margin-right: 2rem;
+    margin-top: -105px;  // Moves the picture upward
+    margin-bottom: 0.5rem;
+    z-index: 1;
+  }
 
-.post .profile img {
-  width: 100%;
-  height: auto;
+  .post .profile img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 
