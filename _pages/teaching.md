@@ -23,7 +23,7 @@ hide_title: true
 
 ##### Instructor of Record
 
-- `LSci 2` &nbsp; **Discovering Language** &nbsp; &nbsp; &nbsp; *Summer 2025*
+- <span class="course-code">LSCI 2</span> &nbsp; **Discovering Language** &nbsp; &nbsp; &nbsp; *Summer 2025*
 
 ##### Teaching Assistant
 
