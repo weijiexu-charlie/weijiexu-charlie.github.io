@@ -31,9 +31,17 @@ I am a Postdoctoral Research Associate in Linguistics at UMass Amherst. I am a m
 
 <!-- Our cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge. -->
 
+<h5>
+  <span class="header-underline">RESEARCH GOALS</span>
+</h5>
+
 The goal of my research is to answer: (i) what are the computational problems in language processing and learning? (ii) how are these problems solved by our cognitive system? (iii) how do those cognitive solutions shape the mechanisms and representations underlying human language faculty? In answering these questions, I aim to develop psycholinguistic theories in terms of deeper principles about how human cognition operates under resource constraints. At the same time, I aim to provide functionalist explanations grounded in psycholinguistic theories for why languages are structured the way they are.
 
 To achieve this goal, I draw upon computational modeling (e.g., Bayesian modeling, information theory), combined with experimental methods and large-scale naturalistic data, leveraging cutting-edge NLP techniques such as language modeling. 
+
+<h5>
+  <span class="header-underline">MY BACKGROUND</span>
+</h5>
 
 I received my Ph.D. in [Language Science](https://www.langsci.uci.edu/) from University of California Irvine, working with [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). Before that, I earned my M.A. in Computational Social Science from the University of Chicago, where I worked with [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/). Prior to entering the field of linguistics, I earned my B.A. in Spanish Language and Literature from Shanghai International Studies University in China.
 
