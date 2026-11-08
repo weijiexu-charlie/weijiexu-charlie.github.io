@@ -256,9 +256,11 @@ ol.research-goals-list {
 // About page profile picture
 .post .profile {
   float: right;
-  width: 20%;
+  width: 23%;
   margin-left: 2rem;
+  margin-top: -100px;  // Moves the picture upward
   margin-bottom: 1rem;
+  z-index: 1;
 }
 
 .post .profile img {
