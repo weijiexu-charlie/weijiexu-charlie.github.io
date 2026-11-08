@@ -31,6 +31,8 @@ I am a Postdoctoral Research Associate in Linguistics at UMass Amherst. I am a m
 
 <!-- Our cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge. -->
 
+<div style="clear: both;"></div>
+
 ---
 
 <h5>
