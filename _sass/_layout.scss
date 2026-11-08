@@ -258,11 +258,14 @@ ol.research-goals-list {
 @media (min-width: 768px) {
   .post .profile {
     float: right;
-    width: 23%;
-    margin-left: 8rem;
+    width: 30%;
+    margin-left: 0;
     margin-right: 2rem;
-    margin-top: -105px;  // Moves the picture upward
+    margin-top: -105px;
     margin-bottom: 0.5rem;
+    padding-left: 3rem;
+    box-sizing: border-box;
+    position: relative;
     z-index: 1;
   }
 
@@ -271,6 +274,24 @@ ol.research-goals-list {
     height: auto;
   }
 }
+
+
+// @media (min-width: 768px) {
+//   .post .profile {
+//     float: right;
+//     width: 23%;
+//     margin-left: 8rem;
+//     margin-right: 2rem;
+//     margin-top: -105px;  // Moves the picture upward
+//     margin-bottom: 0.5rem;
+//     z-index: 1;
+//   }
+
+//   .post .profile img {
+//     width: 100%;
+//     height: auto;
+//   }
+// }
 
 
 
