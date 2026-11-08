@@ -21,7 +21,7 @@ hide_title: true
 
 1. **Weijie Xu**, Hailin Hao & Sanghee Kim. (to appear). Accessibility of semantic content across discourse boundaries. &nbsp; In *Experiments in Linguistic Meaning*, *4*.
 
-1. **Weijie Xu**, Brian Dillon & Richard Futrell. (2026). Memory efficiency and resource-rational encoding in sentence processing. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*. &nbsp; <span class="highlight-in-text">Best Paper Award</span> &nbsp; [<span class="highlight-in-text">Paper</span>](https://aclanthology.org/2026.acl-long.1550/) &nbsp; [[code]](https://github.com/weijiexu-charlie/resource-rational-encoding)
+1. **Weijie Xu**, Brian Dillon & Richard Futrell. (2026). Memory efficiency and resource-rational encoding in sentence processing. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*. &nbsp; <span class="highlight-in-text">Best Paper Award</span> &nbsp; [<span class="highlight-in-text">Paper</span>](https://aclanthology.org/2026.acl-long.1550/) &nbsp; [<span class="highlight-in-text">Code</span>](https://github.com/weijiexu-charlie/resource-rational-encoding)
 
 <!-- 1. **Weijie Xu**, Brian Dillon & Richard Futrell. (2026). Memory efficiency and resource-rational encoding in sentence processing. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*. &nbsp; <mark style="background-color: #F1EEE6; color: #643615; font-weight: bold;"> &nbsp; Best Paper Award &nbsp; </mark> &nbsp; [[paper]](https://aclanthology.org/2026.acl-long.1550/) &nbsp; [[code]](https://github.com/weijiexu-charlie/resource-rational-encoding) -->
 
