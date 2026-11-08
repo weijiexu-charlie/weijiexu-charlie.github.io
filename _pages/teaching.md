@@ -12,9 +12,9 @@ hide_title: true
 
 <p>&nbsp;</p>
 
-<h5>
-  <span class="header-underline">UC IRVINE</span>
-</h5>
+<h4>
+  <span class="header-underline">UC Irvine</span>
+</h4>
 <!-- #### University of California, Irvine -->
 
 <p>&nbsp;</p>
