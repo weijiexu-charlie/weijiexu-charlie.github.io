@@ -27,7 +27,7 @@ hide_title: true
 
 1. **Weijie Xu** & Richard Futrell. (2026). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing. &nbsp; *Journal of Memory and Language*, *146*, 104706. &nbsp; [<span class="data-link-in-text">Paper</span>](https://www.sciencedirect.com/science/article/pii/S0749596X25000993) &nbsp; [<span class="data-link-in-text">Code</span>](https://osf.io/yf4ca/)
 
-1. **Weijie Xu**, Hailin Hao & Richard Futrell. (2026). Strategic allocation of memory resources through the lens of dependency locality: Evidence from a controlled reading experiment. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 48). &nbsp; [<span class="hdata-link-in-text">Paper</span>](https://escholarship.org/uc/item/09j052r0)
+1. **Weijie Xu**, Hailin Hao & Richard Futrell. (2026). Strategic allocation of memory resources through the lens of dependency locality: Evidence from a controlled reading experiment. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 48). &nbsp; [<span class="data-link-in-text">Paper</span>](https://escholarship.org/uc/item/09j052r0)
 
 1. Charles Torres, **Weijie Xu**, Yanting Li & Richard Futrell. (2025). Creolization versus code-switching: An agent-based cognitive model for bilingual strategies in language contact. *The Workshop on Cognitive Modeling and Computational Linguistics*.  &nbsp; [<span class="data-link-in-text">Paper</span>](https://aclanthology.org/2025.cmcl-1.25/) &nbsp; [<span class="data-link-in-text">Code</span>](https://github.com/cj-torres/creolization-codeswitching)
 
