@@ -45,4 +45,4 @@ To achieve this goal, I draw upon computational modeling (e.g., Bayesian modelin
 
 I received my Ph.D. in [<span class="page-link-in-text">Language Science</span>](https://www.langsci.uci.edu/) from University of California Irvine, working with [<span class="page-link-in-text">Richard Futrell</span>](https://www.socsci.uci.edu/~rfutrell/). Before that, I earned my M.A. in Computational Social Science from the University of Chicago, where I worked with [<span class="page-link-in-text">Ming Xiang</span>](https://voices.uchicago.edu/mingxianglab/). Prior to entering the field of linguistics, I earned my B.A. in Spanish Language and Literature from Shanghai International Studies University in China.
 
-Born in Nanchang, the capital city of Jiangxi Province in China, I am a native speaker of both Mandarin Chinese and [Gan Chinese -- Nanchang Dialect (赣语-南昌话)](https://en.wikipedia.org/wiki/Chang-Du_Gan).
+Born in Nanchang, the capital city of Jiangxi Province in China, I am a native speaker of both Mandarin Chinese and [<span class="page-link-in-text">Gan Chinese, Nanchang Dialect (赣语-南昌话)</span>](https://en.wikipedia.org/wiki/Chang-Du_Gan).
