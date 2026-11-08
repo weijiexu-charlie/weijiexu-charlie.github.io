@@ -114,9 +114,9 @@ h1 em, h2 em {
 
 .highlight-in-text {
   font-family: 'Montserrat', sans-serif !important;
-  font-weight: 700;
-  font-size: 0.9rem;
-  color: #643615; // Font color
+  font-weight: 700 !important;
+  font-size: 0.9rem !important;
+  color: #643615 !important; // Font color
 
   position: relative;
   display: inline-block;
