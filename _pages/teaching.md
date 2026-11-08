@@ -27,14 +27,14 @@ hide_title: true
 
 ##### Teaching Assistant
 
-- `LSci 3` &nbsp; **Introduction to Linguistics** &nbsp; &nbsp; &nbsp; *Winter 2022, Fall 2022, Winter 2023, Winter 2025, Fall 2025*
-- `LSci 20` &nbsp; **Introduction to Syntax** &nbsp; &nbsp; &nbsp; *Spring 2024*
-- `LSci 155` &nbsp; **Psychology of Language** &nbsp; &nbsp; &nbsp; *Winter 2024*
-- `Psych 9a` &nbsp; **Psychology Fundamentals** &nbsp; &nbsp; &nbsp; *Spring 2025*
-- `Psych 129` &nbsp; **Evolutionary Psychology** &nbsp; &nbsp; &nbsp; *Fall 2024*
-- `SocSci 70c` &nbsp; **Comparing Cultures** &nbsp; &nbsp; &nbsp; *Spring 2022*
+- <span class="course-code">LSCI 3</span> &nbsp; **Introduction to Linguistics** &nbsp; &nbsp; &nbsp; *Winter 2022, Fall 2022, Winter 2023, Winter 2025, Fall 2025*
+- <span class="course-code">LSCI 20</span> &nbsp; **Introduction to Syntax** &nbsp; &nbsp; &nbsp; *Spring 2024*
+- <span class="course-code">LSCI 155</span> &nbsp; **Psychology of Language** &nbsp; &nbsp; &nbsp; *Winter 2024*
+- <span class="course-code">PSYCH 9A</span> &nbsp; **Psychology Fundamentals** &nbsp; &nbsp; &nbsp; *Spring 2025*
+- <span class="course-code">PSYCH 129</span> &nbsp; **Evolutionary Psychology** &nbsp; &nbsp; &nbsp; *Fall 2024*
+- <span class="course-code">SOCSCI 70C</span> &nbsp; **Comparing Cultures** &nbsp; &nbsp; &nbsp; *Spring 2022*
 
 ##### Mentor
 
-- `LSci 159` &nbsp; **Experimental Method** &nbsp; &nbsp; &nbsp; *Spring 2025*
+- <span class="course-code">LSCI 159</span> &nbsp; **Experimental Method** &nbsp; &nbsp; &nbsp; *Spring 2025*
 
