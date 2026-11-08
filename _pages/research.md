@@ -23,9 +23,10 @@ hide_title: true
 
 1. **Weijie Xu**, Hailin Hao & Sanghee Kim. (to appear). Accessibility of semantic content across discourse boundaries. &nbsp; In *Experiments in Linguistic Meaning*, *4*.
 
-1. **Weijie Xu**, Brian Dillon & Richard Futrell. (2026). Memory efficiency and resource-rational encoding in sentence processing. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*. &nbsp; <span class="highlight-in-text">Best Paper Award</span> &nbsp; [<span class="data-link-in-text">Paper</span>](https://aclanthology.org/2026.acl-long.1550/) &nbsp; [<span class="data-link-in-text">Code</span>](https://github.com/weijiexu-charlie/resource-rational-encoding)
+1. **Weijie Xu**, Brian Dillon & Richard Futrell. (2026). Memory efficiency and resource-rational encoding in sentence processing. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*. &nbsp; <span class="highlight-in-text">ACL Best Paper Award</span> &nbsp; [<span class="data-link-in-text">Paper</span>](https://aclanthology.org/2026.acl-long.1550/) &nbsp; [<span class="data-link-in-text">Code</span>](https://github.com/weijiexu-charlie/resource-rational-encoding) &nbsp; [<span class="data-link-in-text">HSP Talk</span>](https://www.youtube.com/watch?v=JsOjhOw6T9M)
 
-1. **Weijie Xu** & Richard Futrell. (2026). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing. &nbsp; *Journal of Memory and Language*, *146*, 104706. &nbsp; [<span class="data-link-in-text">Paper</span>](https://www.sciencedirect.com/science/article/pii/S0749596X25000993) &nbsp; [<span class="data-link-in-text">Code</span>](https://osf.io/yf4ca/)
+
+1. **Weijie Xu** & Richard Futrell. (2026). Strategic resource allocation in memory encoding: An efficiency principle shaping language processing. &nbsp; *Journal of Memory and Language*, *146*, 104706. &nbsp; [<span class="data-link-in-text">Paper</span>](https://www.sciencedirect.com/science/article/pii/S0749596X25000993) &nbsp; [<span class="data-link-in-text">Code</span>](https://osf.io/yf4ca/) 
 
 1. **Weijie Xu**, Hailin Hao & Richard Futrell. (2026). Strategic allocation of memory resources through the lens of dependency locality: Evidence from a controlled reading experiment. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 48). &nbsp; [<span class="data-link-in-text">Paper</span>](https://escholarship.org/uc/item/09j052r0)
 
