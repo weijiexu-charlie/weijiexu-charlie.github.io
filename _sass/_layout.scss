@@ -137,6 +137,30 @@ h1 em, h2 em {
 }
 
 
+.page-link-in-text {
+  // font-family: 'Montserrat', sans-serif !important;
+  // font-weight: 500 !important;
+  // font-size: 0.9rem !important;
+  color: #643615 !important; // Font color
+
+  position: relative;
+  display: inline-block;
+  z-index: 0;
+
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0%;
+    bottom: -0.2px;
+    width: 100%;
+    height: 1.5px;
+    background-color: #643615;
+    // background-color: #643615;
+    z-index: -1;
+  }
+}
+
+
 .highlight-in-text {
   font-family: 'Montserrat', sans-serif !important;
   font-weight: 700 !important;
