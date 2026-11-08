@@ -28,7 +28,7 @@ body.sticky-bottom-footer {
 }
 
 body {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   line-height: 1.6;
 }
 
@@ -39,7 +39,8 @@ body {
 body {
   font-family:
     // 'Crimson Text',
-    'EB Garamond',
+    // 'EB Garamond',
+    'Montserrat',
     // 'Roboto',       
     'Noto Serif SC',     
     serif;
@@ -135,7 +136,8 @@ h1 em, h2 em {
 
 
 .header-underline {
-  font-family: 'Montserrat', sans-serif !important;
+  // font-family: 'Montserrat', sans-serif !important;
+  font-family: 'EB Garamond', sans-serif !important;
   font-weight: 700;
   color: #643615; // Font color
 
