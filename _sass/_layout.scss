@@ -235,9 +235,9 @@ h1 em, h2 em {
 
 ol.research-goals-list {
   font-family: 'Poppins', sans-serif !important;
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: #555555;
+  font-size: 0.95rem !important;
+  font-weight: 600 !important;
+  color: #555555 !important;
 
   background-color: #F0F0F0; // Light grey background
   border: none;
