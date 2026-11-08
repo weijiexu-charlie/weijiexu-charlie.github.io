@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<p>&nbsp;</p>
+
 I am a Postdoctoral Research Associate in Linguistics at UMass Amherst. I am a member of the [<span class="page-link-in-text">Computational Sentence Processing Lab</span>](https://people.umass.edu/bwdillon/compsentproc.html) working with [<span class="page-link-in-text">Brian Dillon</span>](https://people.umass.edu/bwdillon/?_gl=1*md20qh*_gcl_au*NjU5Mjc1MTM4LjE3ODY1NTY2NDM.*_ga*NTEzMzE4MzUxLjE3Nzg3NzEyMjk.*_ga_21RLS0L7EB*czE3ODcyNjk4MDUkbzMxJGcxJHQxNzg3MjY5ODY1JGo2MCRsMCRoMA..). My area of specialization is computational psycholinguistics. 
 
 <!-- Our cognitive system is bounded by considerable constraints, yet remarkably it functions in a seemingly effortless way. My research focuses on human language as a unique window to look into this bounded nature of human mind, aiming to explain how universal cognitive principles and pressures shape the processing of linguistic signals as well as the learning and formation of linguistic knowledge. -->
