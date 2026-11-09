@@ -242,6 +242,9 @@ ol.research-goals-list {
   border: none;
   border-radius: 0;          // Square corners (optional)
 
+  width: 85%;             // Width of background box
+  box-sizing: border-box; // Include padding in width
+
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 
