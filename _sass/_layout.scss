@@ -238,8 +238,8 @@ ol.research-goals-list {
   font-size: 0.95rem !important;
   font-weight: 400 !important;
 
-  // background-color: #F0F0F0; // Light grey background
-  background-color: #643615;
+  background-color: #F0F0F0; // Light grey background
+  // background-color: #643615;
   border: none;
   border-radius: 0;          // Square corners (optional)
 
@@ -254,15 +254,15 @@ ol.research-goals-list {
   padding: 2.0rem 3.5rem;      // Vertical and horizontal padding
 
   li {
-    // color: #555555 !important;
-    color: #FFFFFF !important;
+    color: #555555 !important;
+    // color: #FFFFFF !important;
     margin-bottom: 0.8rem;
     line-height: 1.4;
   }
 
   li::marker {
-    // color: #555555 !important;
-    color: #FFFFFF !important;
+    color: #555555 !important;
+    // color: #FFFFFF !important;
   }
 
   li:last-child {
