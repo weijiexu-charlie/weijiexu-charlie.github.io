@@ -237,7 +237,6 @@ ol.research-goals-list {
   font-family: 'Poppins', sans-serif !important;
   font-size: 0.95rem !important;
   font-weight: 600 !important;
-  color: #643615 !important;
 
   background-color: #F0F0F0; // Light grey background
   border: none;
@@ -249,8 +248,13 @@ ol.research-goals-list {
   padding: 1.5rem 4rem;      // Vertical and horizontal padding
 
   li {
+    color: #643615 !important;
     margin-bottom: 0.6rem;
     line-height: 1.4;
+  }
+
+  li::marker {
+    color: #643615 !important;
   }
 
   li:last-child {
