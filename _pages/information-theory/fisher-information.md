@@ -6,11 +6,20 @@ description:
 nav: false
 ---
 
-<p class="page-note">These are my personal study notes on Fisher information, based on Chapter 11 of <em>Elements of Information Theory</em> (Cover &amp; Thomas, 2nd ed.) and <a href="https://arxiv.org/abs/1705.01064"><em>A Tutorial on Fisher Information</em></a> (Ly et al., 2017), from which some parts are taken. All errors are my own. Please refer to the original texts for complete and authoritative treatment.</p>
+<div class="page-note">
+  <p>These are my personal study notes based on:</p>
+  <ul>
+    <li>Chapter 11 of <em>Elements of Information Theory</em> (Cover &amp; Thomas, 2nd ed.)</li>
+    <li><a href="https://arxiv.org/abs/1705.01064"><em>A Tutorial on Fisher Information</em></a> (Ly et al., 2017)</li>
+  </ul>
+  <p>All errors are my own. Please refer to the original texts for complete and authoritative treatment.</p>
+</div>
 
 <a class="back-link" href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
 
+
 ---
+
 
 <h5>
   <span class="header-underline">SETUP</span>
@@ -35,6 +44,7 @@ V = \frac{\partial}{\partial \theta} \ln f(X; \theta).
 $$
 
 Note that $$X$$ can be a sequence of data $$X^n$$ with its density function given in Eq. (1).
+
 
 <h5>
   <span class="header-underline">DEFINITION OF FISHER INFORMATION</span>
@@ -67,6 +77,7 @@ $$
 
 Therefore, the variance of the score is simply $$\operatorname{var}(V) = \mathbb{E}\left[ V^2 \right] = J(\theta).$$
 
+
 <h5>
   <span class="header-underline">UNIT FISHER INFORMATION</span>
 </h5>
@@ -95,8 +106,10 @@ $$
 
 which is $$n$$ times its unit Fisher information $$J_X(\theta).$$
 
+
+
 <h5>
-  <span class="header-underline">AN EXAMPLE: BERNOULLI TRIALS</span>
+  <span class="header-underline">FISHER INFORMATION FOR BERNOULLI TRIALS</span>
 </h5>
 
 Consider a sample of data $$X_1, X_2, \dots, X_n$$ drawn i.i.d. from a Bernoulli distribution
@@ -146,11 +159,6 @@ $$
 
 We can calculate the Fisher information in $$Y$$ about $$\theta$$ using the Binomial distribution. The result is $$J_Y(\theta) = \frac{n}{\theta (1-\theta)}$$, which is the same as the Fisher information in the raw data sequence, $$J_Y(\theta) = J_{X^n}(\theta).$$ Therefore, the expected information in $$Y$$ about $$\theta$$ is the same as the expected information in $$X^n.$$ $$Y$$ is therefore a sufficient statistic of the raw data $$X^n$$, since no information is lost about $$\theta.$$ In other words, there is no information about $$\theta$$ left in $$X^n$$ after observing $$Y=y.$$
 
-<h5>
-  <span class="header-underline">RELATIONSHIP WITH MUTUAL INFORMATION</span>
-</h5>
-
-*Coming soon.*
 
 <p>&nbsp;</p>
 
