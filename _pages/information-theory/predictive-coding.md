@@ -136,7 +136,7 @@ For ③, we can simplify it by making another assumption as below.
 
 <figure style="text-align: center;">
   <img class="plot-figure" src="{{ '/assets/img/information-theory/peaked-gaussian.svg' | relative_url }}" alt="A tightly peaked Gaussian q(theta) centered at mu" style="max-width: 420px; width: 100%;">
-  <figcaption class="page-note">$$q(\vartheta)$$ as a tightly peaked Gaussian centered at $$\mu.$$</figcaption>
+  <figcaption class="page-note">\(q(\vartheta)\) as a tightly peaked Gaussian centered at \(\mu\)</figcaption>
 </figure>
 
 Now, for ③, since $$q(\vartheta) E(\vartheta, \varphi)$$ is only non-zero near $$\vartheta = \mu$$, to take the integral, which is the area under $$q(\vartheta) E(\vartheta, \varphi)$$, we only need to consider that small region near $$\mu.$$ Therefore, we can approximate $$E(\vartheta, \varphi)$$ through a Taylor expansion:
