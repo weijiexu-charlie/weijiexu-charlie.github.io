@@ -233,6 +233,24 @@ h1 em, h2 em {
 }
 
 
+// Small gray note, e.g. a disclaimer at the top of a page
+.page-note {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #555555;
+
+  em {
+    font-weight: 400;
+  }
+}
+
+// Lighter gray so the note stays readable in dark mode
+html[data-theme="dark"] .page-note {
+  color: #aaaaaa;
+}
+
+
 ol.research-goals-list {
   font-family: 'Poppins', sans-serif !important;
   font-size: 0.95rem !important;

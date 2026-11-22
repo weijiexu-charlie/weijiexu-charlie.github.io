@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-<span style="font-family: 'Poppins', sans-serif; font-size: 0.9rem; font-weight: 400;">These are my personal study notes based on Chapter 2 of <em>Elements of Information Theory</em> (Cover &amp; Thomas, 2nd ed.). All errors are my own. Please refer to the original text for complete and authoritative treatment.</span>
+<p class="page-note">These are my personal study notes based on Chapter 2 of <em>Elements of Information Theory</em> (Cover &amp; Thomas, 2nd ed.). All errors are my own. Please refer to the original text for complete and authoritative treatment.</p>
 
 <a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
 
