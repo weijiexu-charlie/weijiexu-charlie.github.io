@@ -48,7 +48,10 @@ $$
 
 However, the marginalization in the denominator is often intractable, so we want to approximate this posterior distribution $$p \left( \vartheta \mid \varphi \right).$$ We do this by introducing an auxiliary probability density $$q(\vartheta)$$, and we want to use $$q(\vartheta)$$ to approximate $$p \left( \vartheta \mid \varphi \right).$$
 
-##### Evaluating the Approximation
+
+
+<span class="subsection-header">Evaluating the Approximation</span>
+
 
 We use KL divergence to evaluate how good the approximation is:
 
@@ -81,7 +84,10 @@ $$
 
 Since the sensory input $$\varphi$$ is not something we can control, at least not in this naive generative model, minimizing $$\mathcal{F}$$ is equivalent to minimizing $$D_{\mathrm{KL}}.$$ Also, since $$D_{\mathrm{KL}}$$ is non-negative, $$\mathcal{F}$$ is an upper bound of surprisal. Therefore, our objective is now to find a $$q(\vartheta)$$ that minimizes $$\mathcal{F}.$$
 
-##### Connection to Predictive Coding
+
+
+<span class="subsection-header">Connection to Predictive Coding</span>
+
 
 We rewrite free energy $$\mathcal{F}$$ as
 
@@ -231,6 +237,7 @@ So the variational free energy depends on two prediction errors, the sensory pre
 The full multivariate version of Eq. (4) would be Eq. (14) in Ohams et al. (2026).
 
 
+
 <h5 id="temporal-predictive-coding">
   <span class="header-underline">TEMPORAL PREDICTIVE CODING</span>
 </h5>
@@ -257,7 +264,10 @@ $$
 
 The only difference from the previous section is that the state prediction error $$\varepsilon_{x_k}$$ is now defined for each time step $$k$$ at which each linguistic input is received. It is the difference between the inferred state $$x_k$$ and the predicted state $$f(\hat{x}_{k-1}; \theta_x)$$, where $$f$$ is some kind of linear function parameterized by $$\theta$$ that gives rise to a prediction. The function $$g$$ simply captures any potential non-linearity, and $$\theta_b$$ is the bias term of the linear function.
 
-##### Inferring the State $$x_k$$
+
+
+<span class="subsection-header">Inferring the State $$x_k$$</span>
+
 
 We infer $$x_k$$ through gradient descent on $$\mathcal{F}.$$ The update of $$x_k$$ at each computation time is based on the derivative:
 
@@ -311,7 +321,10 @@ $$
 
 The full multivariate version of this would be Eq. (22) in Ohams et al. (2026), where $$\sigma^2$$ is substituted with the covariance matrix $$\Sigma.$$
 
-##### Learning Parameters $$\theta$$
+
+
+<span class="subsection-header">Learning Parameters $$\theta$$</span>
+
 
 After inferring $$x_k$$, they do a one-step update for the parameters $$\theta$$ through gradient descent, given by Eq. (8), where $$\eta$$ is the learning rate. The derivation for each of these derivatives is similar to the one above for inferring the state $$x_k.$$
 
