@@ -30,7 +30,7 @@ $$
 H(X) = -\sum_x p(x) \log p(x) = \mathop{\mathbb{E}}\left[-\log p(x)\right].
 $$
 
-Unless otherwise specified, the base of $$\log$$ is 2, and the entropy is measured in *bits*. Since $$-\log p(x) \geq 0,$$ entropy is always non-negative, a property you will commmonly see in the mathematical derivation of many papers.
+Unless otherwise specified, the base of $$\log$$ is 2, and the entropy is measured in *bits*. Since $$-\log p(x) \geq 0,$$ entropy is always non-negative, a property you will commonly see in the mathematical derivation of many papers.
 
 
 <!-- <p>&nbsp;</p> -->
