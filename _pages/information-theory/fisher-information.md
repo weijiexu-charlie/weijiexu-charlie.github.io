@@ -15,7 +15,11 @@ nav: false
   <p>All errors are my own. Please refer to the original texts for complete and authoritative treatment.</p>
 </div>
 
-<a class="back-link" href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
+
+<span class="back-link">
+  <i class="fa-solid fa-arrow-left"></i>
+  <a href="{{ '/resources/' | relative_url }}">Back to Resources</a>
+</span>
 
 
 ---
@@ -157,9 +161,12 @@ $$
 f(y; \theta) = \binom{n}{y} \theta^y (1-\theta)^{n-y}, \quad \text{where } y \in \mathcal{Y} = \{0, 1, \dots, n\}.
 $$
 
-We can calculate the Fisher information in $$Y$$ about $$\theta$$ using the Binomial distribution. The result is $$J_Y(\theta) = \frac{n}{\theta (1-\theta)}$$, which is the same as the Fisher information in the raw data sequence, $$J_Y(\theta) = J_{X^n}(\theta).$$ Therefore, the expected information in $$Y$$ about $$\theta$$ is the same as the expected information in $$X^n.$$ $$Y$$ is therefore a sufficient statistic of the raw data $$X^n$$, since no information is lost about $$\theta.$$ In other words, there is no information about $$\theta$$ left in $$X^n$$ after observing $$Y=y.$$
+We can calculate the Fisher information in $$Y$$ about $$\theta$$ using the Binomial distribution. The result is $$J_Y(\theta) = \frac{n}{\theta (1-\theta)}$$, which is the same as the Fisher information in the raw data sequence, $$J_Y(\theta) = J_{X^n}(\theta).$$ Therefore, $$Y$$ and $$X^n$$ provide the same amount of information about $$\theta.$$ $$Y$$ is therefore a sufficient statistic of the raw data $$X^n,$$ since no information is lost about $$\theta.$$
 
 
 <p>&nbsp;</p>
 
-<a class="back-link" href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
+<span class="back-link">
+  <i class="fa-solid fa-arrow-left"></i>
+  <a href="{{ '/resources/' | relative_url }}">Back to Resources</a>
+</span>

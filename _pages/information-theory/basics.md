@@ -8,11 +8,11 @@ nav: false
 
 <p class="page-note">These are my personal study notes based on Chapter 2 of <em>Elements of Information Theory</em> (Cover &amp; Thomas, 2nd ed.). All errors are my own. Please refer to the original text for complete and authoritative treatment.</p>
 
-<a class="back-link" href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
 
-<!-- <a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a> -->
-
-<!-- <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a> -->
+<span class="back-link">
+  <i class="fa-solid fa-arrow-left"></i>
+  <a href="{{ '/resources/' | relative_url }}">Back to Resources</a>
+</span>
 
 
 ---
@@ -193,11 +193,10 @@ The data-processing inequality indicates that any data processing function on $$
 
 <p>&nbsp;</p>
 
-<a class="back-link" href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
-
-<!-- <a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a> -->
-
-<!-- <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a> -->
+<span class="back-link">
+  <i class="fa-solid fa-arrow-left"></i>
+  <a href="{{ '/resources/' | relative_url }}">Back to Resources</a>
+</span>
 
 ---
 [^true-dist]: The true distribution is typically on the left in terms of notation.
