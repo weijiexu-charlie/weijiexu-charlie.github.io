@@ -240,13 +240,17 @@ h1 em, h2 em {
   font-weight: 400;
   color: #555555;
 
+  p, li {
+    color: inherit;
+    font-size: inherit;
+    font-family: inherit;
+  }
+
   em {
     font-weight: 400;
-    color: #555555;
   }
 }
 
-// Lighter gray so the note stays readable in dark mode
 html[data-theme="dark"] .page-note {
   color: #aaaaaa;
 }
