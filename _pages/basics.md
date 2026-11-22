@@ -9,7 +9,11 @@ nav: false
 <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
 
 
-## Entropy
+
+
+<h5>
+  <span class="header-underline">ENTROPY</span>
+</h5>
 
 The entropy $$H(X)$$ of a discrete random variable $$X$$ is a measure of its uncertainty, and is defined by
 
@@ -19,7 +23,11 @@ $$
 
 Unless otherwise specified, the base of $$\log$$ is 2, and the entropy is measured in *bits*. Entropy is non-negative since $$-\log p(x) \geq 0$$.
 
-## Joint Entropy, Conditional Entropy
+
+
+<h5>
+  <span class="header-underline">JOINT ENTROPY, CONDITIONAL ENTROPY</span>
+</h5>
 
 Now we have two random variables $$X$$ and $$Y$$. Their *joint entropy* $$H(X, Y)$$ is defined based on their joint probability distribution:
 
@@ -59,9 +67,12 @@ $$
 H(Y \mid X) \leq H(Y)
 $$
 
-## Cross-Entropy
 
-## Relative Entropy (KL Divergence)
+
+<h5>
+  <span class="header-underline">RELATIVE ENTROPY (KL DIVERGENCE)</span>
+</h5>
+
 
 The *relative entropy* $$D_{\text{KL}}(p \parallel q)$$ (or sometimes called *KL divergence*) measures how inefficient it is to assume that distribution is $$q$$ when the true distribution is $$p$$.[^true-dist]
 
@@ -77,7 +88,11 @@ As shown above, relative entropy $$D_{\text{KL}}$$ can be decomposed into the cr
 - It is useful to view $$D_{\text{KL}}(p \parallel q)$$ as the distance between two distributions. But it is not a true distance metric since it is not symmetrical. (See [this page](https://statproofbook.github.io/P/kl-nonsymm) for the proof)
 - Relative entropy is non-negative: $$D_{\text{KL}}(p \parallel q) \geq 0$$. The equality holds iff $$p(x) = q(x)$$ for all $$x$$. (See [this page](https://statproofbook.github.io/P/kl-nonneg2) for the proof)
 
-## Mutual Information
+
+
+<h5>
+  <span class="header-underline">MUTUAL INFORMATION</span>
+</h5>
 
 The *mutual information* $$I(X; Y)$$ measures how much information the random variable $$X$$ provides about $$Y$$. It is a special case of relative entropy. That is, it is the relative entropy between the joint distribution $$p(x, y)$$ and the product distribution $$p(x) p(y)$$. We can view it as the additional information we get if we consider $$X$$ and $$Y$$ are not independent compared to if they were independent.
 
@@ -111,6 +126,13 @@ There is also a chain rule for mutual information:
 $$
 I(X, Y; Z) = I(X; Z) + I(Y; Z \mid X)
 $$
+
+
+
+<h5>
+  <span class="header-underline">SOME USEFUL INEQUALITIES</span>
+</h5>
+
 
 ## Gibbs' Inequality
 
