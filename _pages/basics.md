@@ -6,6 +6,8 @@ description:
 nav: false
 ---
 
+<span style="font-family: 'Poppins', sans-serif;">Content on this page is the notes for Chapter 2 of <em>Elements of Information Theory</em> by Cover &amp; Thomas.</span>
+
 <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
 
 
