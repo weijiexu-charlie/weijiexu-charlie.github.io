@@ -29,7 +29,7 @@ nav: false
   <span class="header-underline">SETUP</span>
 </h5>
 
-Suppose we have a sample of data $$X_1, X_2, \dots, X_n$$, each drawn i.i.d. from a certain parameterized probability function $$f(x_i; \theta)$$. This whole sequence of data is also a random variable $$X^n = (X_1, \dots, X_n)$$, and because of i.i.d., it follows the probability function
+Suppose we have a sample of data $$X_1, X_2, \dots, X_n$$, each drawn i.i.d. from a parameterized probability function $$f(x_i; \theta).$$ This whole sequence of data is also a random variable $$X^n = (X_1, \dots, X_n),$$ and because of i.i.d., it follows the probability function
 
 $$
 f(x^n; \theta) = \prod_{i=1}^{n} f(x_i; \theta). \tag{1}
