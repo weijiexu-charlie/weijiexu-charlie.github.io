@@ -166,24 +166,24 @@ See this [Wikipedia page](https://en.wikipedia.org/wiki/Gibbs%27_inequality) for
 
 Given a Markov chain $$X \rightarrow Y \rightarrow g(Y)$$, where $$g$$ is a data processing function on $$Y$$, then $$I(X;Y) \geq I\left(X; g(Y)\right)$$.
 
-*Proof.* Here we have two ways to expand the mutual information using chain rule:
+> *Proof.* Here we have two ways to expand the mutual information using chain rule:
+>
+> $$
+> \begin{aligned}
+> I\left(X; Y, g(Y)\right) &= I(X; g(Y)) + I(X; Y \mid g(Y))\\
+> &= I(X; Y) + I(X; g(Y) \mid Y).
+> \end{aligned}
+> $$
+> 
+> Since $$X \perp g(Y) \mid Y$$ as a property of Markov chain, $$I(X; g(Y) \mid Y) = 0$$. Thus
+> 
+> $$
+> I(X; g(Y)) + I(X; Y \mid g(Y)) = I(X; Y).
+> $$
+> 
+> Then, since $$I(X; Y \mid g(Y)) \geq 0$$, we can prove that $$I(X; Y) \geq I(X; g(Y)).$$ <span style="float: right;">$$\blacksquare$$</span>
 
-$$
-\begin{aligned}
-I\left(X; Y, g(Y)\right) &= I(X; g(Y)) + I(X; Y \mid g(Y))\\
-&= I(X; Y) + I(X; g(Y) \mid Y).
-\end{aligned}
-$$
-
-Since $$X \perp g(Y) \mid Y$$ as a property of Markov chain, $$I(X; g(Y) \mid Y) = 0$$. Thus
-
-$$
-I(X; g(Y)) + I(X; Y \mid g(Y)) = I(X; Y).
-$$
-
-Then, since $$I(X; Y \mid g(Y)) \geq 0$$, we can prove that $$I(X; Y) \geq I(X; g(Y)).$$
-
-<p markdown="1" style="text-align: right;">$$\blacksquare$$</p>
+<!-- <p markdown="1" style="text-align: right;">$$\blacksquare$$</p> -->
 
 The data-processing inequality indicates that any data processing function on $$Y$$ cannot increase its mutual information with $$X.$$ Be careful though that this inequality is only guaranteed to hold when $$X$$, $$Y$$, and $$g(Y)$$ form a Markov chain.
 
