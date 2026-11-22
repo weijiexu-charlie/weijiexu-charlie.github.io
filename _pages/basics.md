@@ -23,10 +23,10 @@ nav: false
 The entropy $$H(X)$$ measures the uncertainty in a random variable $$X$$. For a discrete variable, it is defined by
 
 $$
-H(X) = -\sum_x p(x) \log p(x) = \mathop{\mathbb{E}}\left[-\log p(x)\right]
+H(X) = -\sum_x p(x) \log p(x) = \mathop{\mathbb{E}}\left[-\log p(x)\right].
 $$
 
-Unless otherwise specified, the base of $$\log$$ is 2, and the entropy is measured in *bits*. Entropy is non-negative since $$-\log p(x) \geq 0.$$
+Unless otherwise specified, the base of $$\log$$ is 2, and the entropy is measured in *bits*. Since $$-\log p(x) \geq 0.$$, entropy is always non-negative, a property you will commmonly see in the mathematical derivation of many papers.
 
 
 <p>&nbsp;</p>
@@ -40,7 +40,7 @@ Now we have two random variables $$X$$ and $$Y$$. Their *joint entropy* $$H(X, Y
 $$
 \begin{aligned}
 H(X, Y) &= - \sum_x \sum_y p(x, y) \log p(x, y)\\
-&= -\mathop{\mathbb{E}} \left[\log p(x, y)\right]
+&= -\mathop{\mathbb{E}} \left[\log p(x, y)\right].
 \end{aligned}
 $$
 
@@ -51,7 +51,7 @@ $$
 H(Y \mid X) &= \sum_x p(x) H(Y \mid X=x)\\
 &= -\sum_x p(x) \sum_y p(y \mid x) \log p(y \mid x) \\
 &= -\sum_x \sum_y p(x, y) \log p(y \mid x) \\
-&= -\mathop{\mathbb{E}} \left[\log p(y \mid x)\right]
+&= -\mathop{\mathbb{E}} \left[\log p(y \mid x)\right].
 \end{aligned}
 $$
 
@@ -67,11 +67,12 @@ $$
 H(X, Y) = H(X) + H(Y) \qquad \text{if } X \perp Y.
 $$
 
-**Information doesn't hurt.** Conditioning reduces entropy.
+**Information doesn't hurt**, so conditioning can only reduce entropy:
 
 $$
-H(Y \mid X) \leq H(Y)
+H(Y \mid X) \leq H(Y).
 $$
+
 
 
 <p>&nbsp;</p>
@@ -81,19 +82,20 @@ $$
 </h5>
 
 
-The *relative entropy* $$D_{\text{KL}}(p \parallel q)$$ (or sometimes called *KL divergence*) measures how inefficient it is to assume that distribution is $$q$$ when the true distribution is $$p$$.[^true-dist]
+The *relative entropy* $$D_{\text{KL}}(p \parallel q)$$ (or sometimes called *KL divergence*) measures how inefficient it is to assume that distribution is $$q$$ when the true distribution is $$p.$$[^true-dist] It is defined as
 
 $$
 \begin{aligned}
 D_{\text{KL}}(p \parallel q) &= \sum_x p(x) \log \frac{p(x)}{q(x)} \\
-&= \underbrace{-\sum_x p(x)\log q(x)}_{\text{cross-entropy } H(p, q)} - \underbrace{\left[-\sum_x p(x) \log p(x) \right]}_{H(p)}
+&= \underbrace{-\sum_x p(x)\log q(x)}_{\text{cross-entropy } H(p, q)} - \underbrace{\left[-\sum_x p(x) \log p(x) \right]}_{H(p)}.
 \end{aligned}
 $$
 
-As shown above, relative entropy $$D_{\text{KL}}$$ can be decomposed into the cross-entropy $$H(p, q)$$ and the entropy of the true distribution $$H(p)$$. So relative entropy can be interpreted as the *additional* code length that is needed if the true distribution $$p$$ is encoded as if it were $$q$$.
+As shown above, relative entropy $$D_{\text{KL}}$$ can be decomposed into the cross-entropy $$H(p, q)$$ and the entropy of the true distribution $$H(p)$$. So relative entropy can be interpreted as the *additional* code length that is needed if the true distribution $$p$$ is encoded as if it were $$q.$$
 
 - It is useful to view $$D_{\text{KL}}(p \parallel q)$$ as the distance between two distributions. But it is not a true distance metric since it is not symmetrical. (See [this page](https://statproofbook.github.io/P/kl-nonsymm) for the proof)
-- Relative entropy is non-negative: $$D_{\text{KL}}(p \parallel q) \geq 0$$. The equality holds iff $$p(x) = q(x)$$ for all $$x$$. (See [this page](https://statproofbook.github.io/P/kl-nonneg2) for the proof)
+- Relative entropy is non-negative: $$D_{\text{KL}}(p \parallel q) \geq 0.$$ The equality holds iff $$p(x) = q(x)$$ for all $$x.$$ (See [this page](https://statproofbook.github.io/P/kl-nonneg2) for the proof)
+
 
 
 <p>&nbsp;</p>
@@ -102,7 +104,7 @@ As shown above, relative entropy $$D_{\text{KL}}$$ can be decomposed into the cr
   <span class="header-underline">MUTUAL INFORMATION</span>
 </h5>
 
-The *mutual information* $$I(X; Y)$$ measures how much information the random variable $$X$$ provides about $$Y$$. It is a special case of relative entropy. That is, it is the relative entropy between the joint distribution $$p(x, y)$$ and the product distribution $$p(x) p(y)$$. We can view it as the additional information we get if we consider $$X$$ and $$Y$$ are not independent compared to if they were independent.
+The *mutual information* $$I(X; Y)$$ measures how much information the random variable $$X$$ provides about $$Y.$$ It is a special case of relative entropy. That is, it is the relative entropy between the joint distribution $$p(x, y)$$ and the product distribution $$p(x) p(y)$$. We can view it as the additional information we get if we consider $$X$$ and $$Y$$ are not independent compared to if they were independent.
 
 $$
 \begin{aligned}
@@ -123,16 +125,16 @@ $$
 I(X; Y) = I(Y; X)
 $$
 
-Another useful quantity is *conditional mutual information* $$I(X; Y \mid Z)$$ of $$X$$ and $$Y$$ given $$Z$$:
+Another useful quantity is *conditional mutual information* $$I(X; Y \mid Z)$$ of $$X$$ and $$Y$$ given $$Z:$$
 
 $$
-I(X; Y \mid Z) = H(X \mid Z) - H(X \mid Y, Z)
+I(X; Y \mid Z) = H(X \mid Z) - H(X \mid Y, Z).
 $$
 
 There is also a chain rule for mutual information:
 
 $$
-I(X, Y; Z) = I(X; Z) + I(Y; Z \mid X)
+I(X, Y; Z) = I(X; Z) + I(Y; Z \mid X).
 $$
 
 
@@ -155,6 +157,7 @@ $$
 > $$
 
 See this [Wikipedia page](https://en.wikipedia.org/wiki/Gibbs%27_inequality) for the proof.
+
 
 #### Data-Processing Inequality
 
@@ -179,11 +182,12 @@ Then, since $$I(X; Y \mid g(Y)) \geq 0$$, we can prove that $$I(X; Y) \geq I(X; 
 
 The data-processing inequality indicates that any data processing function on $$Y$$ cannot increase its mutual information with $$X$$. Be careful though that this inequality is only guaranteed to hold when $$X$$, $$Y$$, and $$g(Y)$$ form a Markov chain.
 
+
 #### Fano's Inequality
 
-Let's first denote a Markov chain $$X \rightarrow Y \rightarrow \hat{X}$$. We can think of (1) $$X$$ as the input of a communication channel that takes on values in $$\mathcal{X}$$; (2) $$Y$$ as the output of such channel; and (3) $$\hat{X}$$ as the estimate of the input $$X$$ after observing $$Y$$, and it takes on values in $$\hat{\mathcal{X}}$$ which is not necessarily equal to $$\mathcal{X}$$. Fano's inequality relates the estimator's probability of error, defined as $$p_e = \Pr \left\{\hat{X} \neq X \right\}$$, to the conditional entropy $$H(X \mid Y)$$.
+Let's first denote a Markov chain $$X \rightarrow Y \rightarrow \hat{X}.$$ We can think of (1) $$X$$ as the input of a communication channel that takes on values in $$\mathcal{X};$$ (2) $$Y$$ as the output of such channel; and (3) $$\hat{X}$$ as the estimate of the input $$X$$ after observing $$Y,$$ and it takes on values in $$\hat{\mathcal{X}}$$ which is not necessarily equal to $$\mathcal{X}.$$ Fano's inequality relates the estimator's probability of error, defined as $$p_e = \Pr \left\{\hat{X} \neq X \right\},$$ to the conditional entropy $$H(X \mid Y).$$
 
-> **Theorem (Fano's inequality).** Suppose we have an estimator $$\hat{X}$$ such that $$X \rightarrow Y \rightarrow \hat{X}$$, with $$p_e = \Pr \left\{\hat{X} \neq X \right\}$$. Let $$H(p_e)$$ be the binary entropy function computed at $$p_e$$,[^binary-entropy] and $$\vert \mathcal{X} \vert$$ be the number of possible outcomes of $$X$$. Then, we have
+> **Theorem (Fano's inequality).** Suppose we have an estimator $$\hat{X}$$ such that $$X \rightarrow Y \rightarrow \hat{X}$$, with $$p_e = \Pr \left\{\hat{X} \neq X \right\}.$$ Let $$H(p_e)$$ be the binary entropy function computed at $$p_e,$$[^binary-entropy] and $$\vert \mathcal{X} \vert$$ be the number of possible outcomes of $$X.$$ Then, we have
 >
 > $$
 > H(p_e) + p_e \cdot \log \vert \mathcal{X} \vert \geq H(X \mid \hat{X}) \geq H(X \mid Y).
@@ -199,7 +203,7 @@ E =
 \end{cases}
 $$
 
-Ignoring $$Y$$ for now, let's first consider the uncertainty we still have after the estimation $$H(E, X \mid \hat{X})$$, which can be expanded as
+Ignoring $$Y$$ for now, let's first consider the uncertainty we still have after the estimation $$H(E, X \mid \hat{X}),$$ which can be expanded as
 
 $$
 H(E, X \mid \hat{X}) = H(X \mid \hat{X}) + \underbrace{H(E \mid X, \hat{X})}_{\substack{=0\\ E \text{ is a function of } X \text{ and } \hat{X}}} = H(X \mid \hat{X}).
@@ -219,7 +223,7 @@ $$
 Comparing the two expressions above, we get
 
 $$
-H(p_e) + p_e \cdot \log \vert \mathcal{X} \vert \geq H(X \mid \hat{X})
+H(p_e) + p_e \cdot \log \vert \mathcal{X} \vert \geq H(X \mid \hat{X}).
 $$
 
 In the end, by the data-processing inequality, we have
@@ -234,7 +238,7 @@ $$
 
 $$\blacksquare$$
 
-> **Remark.** What if $$\hat{\mathcal{X}} = \mathcal{X}$$ strictly holds?
+<!-- > **Remark.** What if $$\hat{\mathcal{X}} = \mathcal{X}$$ strictly holds? -->
 
 
 <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
