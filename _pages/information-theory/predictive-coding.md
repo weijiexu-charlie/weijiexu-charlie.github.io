@@ -34,9 +34,9 @@ This section follows [Buckley et al. (2017)](https://doi.org/10.1016/j.jmp.2017.
 
 
 
-<h5>
-  <span class="subsection-header">Setting and Motivation</span>
-</h5>
+
+<span class="subsection-header">Setting and Motivation</span>
+
 
 **Generative model $$\vartheta \rightarrow \varphi$$.** In this generative model, the sensory observation $$\varphi$$ is generated from the environmental state $$\vartheta.$$
 
