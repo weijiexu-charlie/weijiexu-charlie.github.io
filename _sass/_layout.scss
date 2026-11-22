@@ -240,7 +240,7 @@ page-note {
   font-weight: 400;
   color: #555555;
 
-  p, li, em {
+  p, li {
     color: inherit;
     font-size: inherit;
     font-family: inherit;
@@ -248,6 +248,7 @@ page-note {
 
   em {
     font-weight: 400;
+    color: #555555;
   }
 }
 
