@@ -8,7 +8,9 @@ nav: false
 
 <span style="font-family: 'Poppins', sans-serif; font-size: 0.9rem; font-weight: 400;">These are my personal study notes based on Chapter 2 of <em>Elements of Information Theory</em> (Cover &amp; Thomas, 2nd ed.). All errors are my own. Please refer to the original text for complete and authoritative treatment.</span>
 
-<a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
+<a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
+
+<!-- <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a> -->
 
 
 ---
@@ -184,7 +186,11 @@ Then, since $$I(X; Y \mid g(Y)) \geq 0$$, we can prove that $$I(X; Y) \geq I(X; 
 The data-processing inequality indicates that any data processing function on $$Y$$ cannot increase its mutual information with $$X.$$ Be careful though that this inequality is only guaranteed to hold when $$X$$, $$Y$$, and $$g(Y)$$ form a Markov chain.
 
 
-<a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
+<p>&nbsp;</p>
+
+<a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
+
+<!-- <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a> -->
 
 ---
 [^true-dist]: The true distribution is typically on the left in terms of notation.
