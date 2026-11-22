@@ -14,7 +14,7 @@ nav: false
 ---
 
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 <h5>
   <span class="header-underline">ENTROPY</span>
@@ -29,7 +29,7 @@ $$
 Unless otherwise specified, the base of $$\log$$ is 2, and the entropy is measured in *bits*. Since $$-\log p(x) \geq 0,$$ entropy is always non-negative, a property you will commmonly see in the mathematical derivation of many papers.
 
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 <h5>
   <span class="header-underline">JOINT ENTROPY, CONDITIONAL ENTROPY</span>
@@ -75,7 +75,7 @@ $$
 
 
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 <h5>
   <span class="header-underline">RELATIVE ENTROPY (KL DIVERGENCE)</span>
@@ -98,7 +98,7 @@ As shown above, relative entropy $$D_{\text{KL}}$$ can be decomposed into the cr
 
 
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 <h5>
   <span class="header-underline">MUTUAL INFORMATION</span>
@@ -138,7 +138,7 @@ I(X, Y; Z) = I(X; Z) + I(Y; Z \mid X).
 $$
 
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 <h5>
   <span class="header-underline">GIBBS' INEQUALITY</span>
@@ -156,7 +156,7 @@ $$
 See this [Wikipedia page](https://en.wikipedia.org/wiki/Gibbs%27_inequality) for the proof.
 
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 <h5>
   <span class="header-underline">DATA-PROCESSING INEQUALITY</span>
