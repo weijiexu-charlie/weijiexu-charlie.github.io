@@ -13,7 +13,7 @@ hide_title: true
   <span class="header-underline">INFORMATION THEORY</span>
 </h5>
 
-<a href="{{ '/resources/basics/' | relative_url }}">Basics</a>
+<a href="{{ '/resources/basics/' | relative_url }}">Information Theory Basics</a>
 
 
 
