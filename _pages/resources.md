@@ -5,9 +5,11 @@ title: RESOURCES
 description: 
 nav: true
 nav_order: 3
-hide_title: true
+# hide_title: true
 ---
 
+
+<p>&nbsp;</p>
 
 <h5>
   <span class="header-underline">INFORMATION THEORY</span>

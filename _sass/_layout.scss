@@ -248,6 +248,7 @@ h1 em, h2 em {
 
   em {
     font-weight: 400;
+    color: #555555;
   }
 }
 
@@ -256,12 +257,25 @@ html[data-theme="dark"] .page-note {
 }
 
 
+// .back-link {
+//   font-family: 'Poppins', sans-serif;
+//   display: inline-flex;
+//   align-items: center;
+//   gap: 0.4em;
+//   font-size: 1rem;
+// }
+
 .back-link {
   font-family: 'Poppins', sans-serif;
   display: inline-flex;
   align-items: center;
   gap: 0.4em;
-  font-size: 1rem;
+  color: var(--global-theme-color);  // the color for both the arrow and the text
+
+  i,
+  a {
+    color: inherit;
+  }
 }
 
 
