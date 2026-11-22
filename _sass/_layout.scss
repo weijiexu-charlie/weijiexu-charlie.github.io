@@ -271,6 +271,11 @@ blockquote.proof {
 }
 
 
+html[data-theme="dark"] .plot-figure {
+  filter: invert(1);
+}
+
+
 ol.research-goals-list {
   font-family: 'Poppins', sans-serif !important;
   font-size: 0.95rem !important;
