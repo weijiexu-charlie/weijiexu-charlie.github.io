@@ -35,7 +35,7 @@ $$
 f(x^n; \theta) = \prod_{i=1}^{n} f(x_i; \theta). \tag{1}
 $$
 
-The parameter $$\theta$$ is unknown, and usually it needs to be estimated from the raw data $$X^n$$ or from a certain statistic $$T$$ (e.g., the mean of the data). We want to know how much information the raw data or the statistic gives us about the parameter $$\theta.$$ Fisher information $$J(\theta)$$ quantifies exactly this.
+The parameter $$\theta$$ is unknown, and usually it needs to be estimated from the raw data $$X^n$$ or from certain statistic $$T$$ (e.g., the mean of the data). We want to know how much information the raw data or the statistic gives us about the parameter $$\theta.$$ Fisher information $$J(\theta)$$ quantifies exactly this.
 
 <h5>
   <span class="header-underline">SCORE FUNCTION</span>
