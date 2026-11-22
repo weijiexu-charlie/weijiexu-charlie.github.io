@@ -252,6 +252,25 @@ html[data-theme="dark"] .page-note {
 }
 
 
+.back-link {
+  font-family: 'Poppins', sans-serif;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 1rem;
+}
+
+
+blockquote {
+  padding-top: 0;
+  padding-bottom: 0;
+  display: flow-root;  // keeps the floated ∎ inside the blockquote
+
+  > :first-child { margin-top: 0; }
+  > :last-child  { margin-bottom: 0; }
+}
+
+
 ol.research-goals-list {
   font-family: 'Poppins', sans-serif !important;
   font-size: 0.95rem !important;

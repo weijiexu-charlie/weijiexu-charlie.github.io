@@ -8,7 +8,9 @@ nav: false
 
 <p class="page-note">These are my personal study notes based on Chapter 2 of <em>Elements of Information Theory</em> (Cover &amp; Thomas, 2nd ed.). All errors are my own. Please refer to the original text for complete and authoritative treatment.</p>
 
-<a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
+<a class="back-link" href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
+
+<!-- <a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a> -->
 
 <!-- <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a> -->
 
@@ -190,7 +192,9 @@ The data-processing inequality indicates that any data processing function on $$
 
 <p>&nbsp;</p>
 
-<a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
+<a class="back-link" href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a>
+
+<!-- <a href="{{ '/resources/' | relative_url }}"><i class="fa-solid fa-arrow-left"></i> Back to Resources</a> -->
 
 <!-- <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a> -->
 
