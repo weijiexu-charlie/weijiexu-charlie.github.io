@@ -145,23 +145,23 @@ $$
 </h5>
 
 
-#### Gibbs' Inequality
+##### Gibbs' Inequality
 
-> **Theorem (Gibbs' inequality).** For a random variable $$X$$, consider two probability distributions $$P$$ and $$Q$$. Gibbs' inequality states that the entropy of $$X$$ according to $$P$$ is smaller than or equal to the cross-entropy of $$P$$ and $$Q$$:
->
-> $$
-> \begin{aligned}
-> H(P, P) &\leq H(P, Q), \\
-> -\sum_x p(x) \log p(x) &\leq -\sum_x p(x) \log q(x).
-> \end{aligned}
-> $$
+For a random variable $$X$$, consider two probability distributions $$P$$ and $$Q.$$ Gibbs' inequality states that the entropy of $$X$$ according to $$P$$ is smaller than or equal to the cross-entropy of $$P$$ and $$Q:$$
+
+$$
+\begin{aligned}
+H(P, P) &\leq H(P, Q), \\
+-\sum_x p(x) \log p(x) &\leq -\sum_x p(x) \log q(x).
+\end{aligned}
+$$
 
 See this [Wikipedia page](https://en.wikipedia.org/wiki/Gibbs%27_inequality) for the proof.
 
 
-#### Data-Processing Inequality
+##### Data-Processing Inequality
 
-> **Theorem (Data-processing inequality).** Given a Markov chain $$X \rightarrow Y \rightarrow g(Y)$$, where $$g$$ is a data processing function on $$Y$$, then $$I(X;Y) \geq I\left(X; g(Y)\right)$$.
+Given a Markov chain $$X \rightarrow Y \rightarrow g(Y)$$, where $$g$$ is a data processing function on $$Y$$, then $$I(X;Y) \geq I\left(X; g(Y)\right)$$.
 
 *Proof.* Here we have two ways to expand the mutual information using chain rule:
 
@@ -183,15 +183,15 @@ Then, since $$I(X; Y \mid g(Y)) \geq 0$$, we can prove that $$I(X; Y) \geq I(X; 
 The data-processing inequality indicates that any data processing function on $$Y$$ cannot increase its mutual information with $$X$$. Be careful though that this inequality is only guaranteed to hold when $$X$$, $$Y$$, and $$g(Y)$$ form a Markov chain.
 
 
-#### Fano's Inequality
+##### Fano's Inequality
 
 Let's first denote a Markov chain $$X \rightarrow Y \rightarrow \hat{X}.$$ We can think of (1) $$X$$ as the input of a communication channel that takes on values in $$\mathcal{X};$$ (2) $$Y$$ as the output of such channel; and (3) $$\hat{X}$$ as the estimate of the input $$X$$ after observing $$Y,$$ and it takes on values in $$\hat{\mathcal{X}}$$ which is not necessarily equal to $$\mathcal{X}.$$ Fano's inequality relates the estimator's probability of error, defined as $$p_e = \Pr \left\{\hat{X} \neq X \right\},$$ to the conditional entropy $$H(X \mid Y).$$
 
-> **Theorem (Fano's inequality).** Suppose we have an estimator $$\hat{X}$$ such that $$X \rightarrow Y \rightarrow \hat{X}$$, with $$p_e = \Pr \left\{\hat{X} \neq X \right\}.$$ Let $$H(p_e)$$ be the binary entropy function computed at $$p_e,$$[^binary-entropy] and $$\vert \mathcal{X} \vert$$ be the number of possible outcomes of $$X.$$ Then, we have
->
-> $$
-> H(p_e) + p_e \cdot \log \vert \mathcal{X} \vert \geq H(X \mid \hat{X}) \geq H(X \mid Y).
-> $$
+Suppose we have an estimator $$\hat{X}$$ such that $$X \rightarrow Y \rightarrow \hat{X}$$, with $$p_e = \Pr \left\{\hat{X} \neq X \right\}.$$ Let $$H(p_e)$$ be the binary entropy function computed at $$p_e,$$[^binary-entropy] and $$\vert \mathcal{X} \vert$$ be the number of possible outcomes of $$X.$$ Then, we have
+
+$$
+H(p_e) + p_e \cdot \log \vert \mathcal{X} \vert \geq H(X \mid \hat{X}) \geq H(X \mid Y).
+$$
 
 *Proof.* The error random variable $$E$$ is defined as
 
