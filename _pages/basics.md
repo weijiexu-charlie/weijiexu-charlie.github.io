@@ -184,6 +184,7 @@ Given a Markov chain $$X \rightarrow Y \rightarrow g(Y)$$, where $$g$$ is a data
 > $$
 > 
 > Then, since $$I(X; Y \mid g(Y)) \geq 0$$, we can prove that $$I(X; Y) \geq I(X; g(Y)).$$ <span style="float: right;">$$\blacksquare$$</span>
+{: .proof}
 
 <!-- <p markdown="1" style="text-align: right;">$$\blacksquare$$</p> -->
 

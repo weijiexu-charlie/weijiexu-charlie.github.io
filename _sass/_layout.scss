@@ -261,13 +261,13 @@ html[data-theme="dark"] .page-note {
 }
 
 
-blockquote {
+blockquote.proof {
   padding-top: 0;
   padding-bottom: 0;
-  display: flow-root;  // keeps the floated ∎ inside the blockquote
+  display: flow-root;
 
-  > :first-child { margin-top: 0; }
-  > :last-child  { margin-bottom: 0; }
+  > :first-child { margin-top: 0 !important; }
+  > :last-child  { margin-bottom: 0 !important; }
 }
 
 
