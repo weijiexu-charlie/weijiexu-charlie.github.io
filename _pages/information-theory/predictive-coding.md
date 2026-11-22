@@ -135,7 +135,7 @@ For ③, we can simplify it by making another assumption as below.
 **Assumption 2: $$q(\vartheta)$$ is tightly peaked, like a delta function.** We assume that $$q(\vartheta)$$ is a tightly peaked Gaussian, where its density is concentrated at its mean $$\mu.$$ That is, $$q(\vartheta)$$ is non-zero only around $$\vartheta = \mu$$, within a small increment $$\delta \vartheta = \vartheta - \mu.$$ As a result, the integrand in ③ is only non-zero within the small region around $$\vartheta = \mu.$$
 
 <figure style="text-align: center;">
-  <img class="plot-figure" src="{{ '/assets/img/predictive-coding/peaked-gaussian.svg' | relative_url }}" alt="A tightly peaked Gaussian q(theta) centered at mu" style="max-width: 420px; width: 100%;">
+  <img class="plot-figure" src="{{ '/assets/img/information-theory/peaked-gaussian.svg' | relative_url }}" alt="A tightly peaked Gaussian q(theta) centered at mu" style="max-width: 420px; width: 100%;">
   <figcaption class="page-note">$$q(\vartheta)$$ as a tightly peaked Gaussian centered at $$\mu.$$</figcaption>
 </figure>
 
