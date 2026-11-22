@@ -2,14 +2,14 @@
 layout: page
 permalink: /resources/basics/
 title: Information Theory Basics
-description: Basics of Information Theory.
+description: 
 nav: false
 ---
 
 <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
 
 
-
+<p>&nbsp;</p>
 
 <h5>
   <span class="header-underline">ENTROPY</span>
@@ -24,6 +24,7 @@ $$
 Unless otherwise specified, the base of $$\log$$ is 2, and the entropy is measured in *bits*. Entropy is non-negative since $$-\log p(x) \geq 0$$.
 
 
+<p>&nbsp;</p>
 
 <h5>
   <span class="header-underline">JOINT ENTROPY, CONDITIONAL ENTROPY</span>
@@ -68,6 +69,7 @@ H(Y \mid X) \leq H(Y)
 $$
 
 
+<p>&nbsp;</p>
 
 <h5>
   <span class="header-underline">RELATIVE ENTROPY (KL DIVERGENCE)</span>
@@ -89,6 +91,7 @@ As shown above, relative entropy $$D_{\text{KL}}$$ can be decomposed into the cr
 - Relative entropy is non-negative: $$D_{\text{KL}}(p \parallel q) \geq 0$$. The equality holds iff $$p(x) = q(x)$$ for all $$x$$. (See [this page](https://statproofbook.github.io/P/kl-nonneg2) for the proof)
 
 
+<p>&nbsp;</p>
 
 <h5>
   <span class="header-underline">MUTUAL INFORMATION</span>
@@ -128,6 +131,7 @@ I(X, Y; Z) = I(X; Z) + I(Y; Z \mid X)
 $$
 
 
+<p>&nbsp;</p>
 
 <h5>
   <span class="header-underline">SOME USEFUL INEQUALITIES</span>
@@ -227,8 +231,11 @@ $$\blacksquare$$
 
 > **Remark.** What if $$\hat{\mathcal{X}} = \mathcal{X}$$ strictly holds?
 
+
+<a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
+
+---
 [^true-dist]: The true distribution is typically on the left in terms of notation.
 [^binary-entropy]: $$H(p_e) = -p_e \log p_e - (1-p_e) \log (1 - p_e)$$
 
 
-<a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
