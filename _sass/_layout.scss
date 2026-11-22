@@ -234,21 +234,23 @@ h1 em, h2 em {
 
 
 // Small gray note, e.g. a disclaimer at the top of a page
-page-note {
-  font-family: 'Poppins', sans-serif;
+.page-note {
   font-size: 0.9rem;
   font-weight: 400;
   color: #555555;
 
-  p, li {
+  &,
+  p, li, em, a {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  p, li, em {
     color: inherit;
     font-size: inherit;
-    font-family: inherit;
   }
 
   em {
     font-weight: 400;
-    color: #555555;
   }
 }
 
