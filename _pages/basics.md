@@ -144,8 +144,10 @@ $$
   <span class="header-underline">SOME USEFUL INEQUALITIES</span>
 </h5>
 
+<p>&nbsp;</p>
 
-##### Gibbs' Inequality
+
+##### **Gibbs' Inequality**
 
 For a random variable $$X$$, consider two probability distributions $$P$$ and $$Q.$$ Gibbs' inequality states that the entropy of $$X$$ according to $$P$$ is smaller than or equal to the cross-entropy of $$P$$ and $$Q:$$
 
@@ -159,7 +161,9 @@ $$
 See this [Wikipedia page](https://en.wikipedia.org/wiki/Gibbs%27_inequality) for the proof.
 
 
-##### Data-Processing Inequality
+<p>&nbsp;</p>
+
+##### **Data-Processing Inequality**
 
 Given a Markov chain $$X \rightarrow Y \rightarrow g(Y)$$, where $$g$$ is a data processing function on $$Y$$, then $$I(X;Y) \geq I\left(X; g(Y)\right)$$.
 
@@ -180,10 +184,11 @@ $$
 
 Then, since $$I(X; Y \mid g(Y)) \geq 0$$, we can prove that $$I(X; Y) \geq I(X; g(Y))$$. $$\blacksquare$$
 
-The data-processing inequality indicates that any data processing function on $$Y$$ cannot increase its mutual information with $$X$$. Be careful though that this inequality is only guaranteed to hold when $$X$$, $$Y$$, and $$g(Y)$$ form a Markov chain.
+The data-processing inequality indicates that any data processing function on $$Y$$ cannot increase its mutual information with $$X.$$ Be careful though that this inequality is only guaranteed to hold when $$X$$, $$Y$$, and $$g(Y)$$ form a Markov chain.
 
+<p>&nbsp;</p>
 
-##### Fano's Inequality
+##### **Fano's Inequality**
 
 Let's first denote a Markov chain $$X \rightarrow Y \rightarrow \hat{X}.$$ We can think of (1) $$X$$ as the input of a communication channel that takes on values in $$\mathcal{X};$$ (2) $$Y$$ as the output of such channel; and (3) $$\hat{X}$$ as the estimate of the input $$X$$ after observing $$Y,$$ and it takes on values in $$\hat{\mathcal{X}}$$ which is not necessarily equal to $$\mathcal{X}.$$ Fano's inequality relates the estimator's probability of error, defined as $$p_e = \Pr \left\{\hat{X} \neq X \right\},$$ to the conditional entropy $$H(X \mid Y).$$
 
