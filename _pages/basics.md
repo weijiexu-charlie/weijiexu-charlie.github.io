@@ -141,13 +141,8 @@ $$
 <p>&nbsp;</p>
 
 <h5>
-  <span class="header-underline">SOME USEFUL INEQUALITIES</span>
+  <span class="header-underline">GIBBS' INEQUALITY</span>
 </h5>
-
-<p>&nbsp;</p>
-
-
-##### **Gibbs' Inequality**
 
 For a random variable $$X$$, consider two probability distributions $$P$$ and $$Q.$$ Gibbs' inequality states that the entropy of $$X$$ according to $$P$$ is smaller than or equal to the cross-entropy of $$P$$ and $$Q:$$
 
@@ -163,7 +158,9 @@ See this [Wikipedia page](https://en.wikipedia.org/wiki/Gibbs%27_inequality) for
 
 <p>&nbsp;</p>
 
-##### **Data-Processing Inequality**
+<h5>
+  <span class="header-underline">DATA-PROCESSING INEQUALITY</span>
+</h5>
 
 Given a Markov chain $$X \rightarrow Y \rightarrow g(Y)$$, where $$g$$ is a data processing function on $$Y$$, then $$I(X;Y) \geq I\left(X; g(Y)\right)$$.
 
