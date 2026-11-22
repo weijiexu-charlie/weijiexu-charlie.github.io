@@ -145,7 +145,7 @@ $$
 This is the unit Fisher information for Bernoulli trials, which is visualized in the figure below. Intuitively, when the parameter $$\theta$$ is close to 0 or 1, even one single trial is very informative about $$\theta.$$ In contrast, when $$\theta$$ is close to 0.5, the result of only one trial is not very informative.
 
 <figure style="text-align: center;">
-  <img class="plot-figure" src="{{ '/assets/img/information-theory/bernoulli-fisher-info.svg' | relative_url }}" alt="Fisher information of a single Bernoulli trial as a function of theta" style="max-width: 560px; width: 100%;">
+  <img class="plot-figure" src="{{ '/assets/img/information-theory/bernoulli-fisher-info.svg' | relative_url }}" alt="Fisher information of a single Bernoulli trial as a function of theta" style="max-width: 420px; width: 100%;">
   <figcaption class="page-note">Fisher information within a single Bernoulli trial.</figcaption>
 </figure>
 
