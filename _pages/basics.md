@@ -186,65 +186,6 @@ Then, since $$I(X; Y \mid g(Y)) \geq 0$$, we can prove that $$I(X; Y) \geq I(X; 
 
 The data-processing inequality indicates that any data processing function on $$Y$$ cannot increase its mutual information with $$X.$$ Be careful though that this inequality is only guaranteed to hold when $$X$$, $$Y$$, and $$g(Y)$$ form a Markov chain.
 
-<p>&nbsp;</p>
-
-##### **Fano's Inequality**
-
-Let's first denote a Markov chain $$X \rightarrow Y \rightarrow \hat{X}.$$ We can think of (1) $$X$$ as the input of a communication channel that takes on values in $$\mathcal{X};$$ (2) $$Y$$ as the output of such channel; and (3) $$\hat{X}$$ as the estimate of the input $$X$$ after observing $$Y,$$ and it takes on values in $$\hat{\mathcal{X}}$$ which is not necessarily equal to $$\mathcal{X}.$$ Fano's inequality relates the estimator's probability of error, defined as $$p_e = \Pr \left\{\hat{X} \neq X \right\},$$ to the conditional entropy $$H(X \mid Y).$$
-
-Suppose we have an estimator $$\hat{X}$$ such that $$X \rightarrow Y \rightarrow \hat{X}$$, with $$p_e = \Pr \left\{\hat{X} \neq X \right\}.$$ Let $$H(p_e)$$ be the binary entropy function computed at $$p_e,$$[^binary-entropy] and $$\vert \mathcal{X} \vert$$ be the number of possible outcomes of $$X.$$ Then, we have
-
-$$
-H(p_e) + p_e \cdot \log \vert \mathcal{X} \vert \geq H(X \mid \hat{X}) \geq H(X \mid Y).
-$$
-
-*Proof.* The error random variable $$E$$ is defined as
-
-$$
-E =
-\begin{cases}
-1 & \text{if } \hat{X} \neq X, \\
-0 & \text{if } \hat{X} = X.
-\end{cases}
-$$
-
-Ignoring $$Y$$ for now, let's first consider the uncertainty we still have after the estimation $$H(E, X \mid \hat{X}),$$ which can be expanded as
-
-$$
-H(E, X \mid \hat{X}) = H(X \mid \hat{X}) + \underbrace{H(E \mid X, \hat{X})}_{\substack{=0\\ E \text{ is a function of } X \text{ and } \hat{X}}} = H(X \mid \hat{X}).
-$$
-
-Then, another way to expand this joint entropy is
-
-$$
-\begin{aligned}
-H(E, X \mid \hat{X}) &= \underbrace{H(E \mid \hat{X})}_{\substack{\leq H(E)=H(p_e)\\ \text{conditioning reduces } H}} + H(X \mid E, \hat{X}) \\
-&\leq H(p_e) + (1-p_e) \cdot \underbrace{H(X \mid E=0, \hat{X})}_{=0} + p_e \cdot H(X \mid E=1, \hat{X}) \\
-&= H(p_e) + p_e \cdot \underbrace{H(X \mid E=1, \hat{X})}_{\text{upper bound if uniform}} \\
-&\leq H(p_e) + p_e \cdot \log \vert \mathcal{X} \vert.
-\end{aligned}
-$$
-
-Comparing the two expressions above, we get
-
-$$
-H(p_e) + p_e \cdot \log \vert \mathcal{X} \vert \geq H(X \mid \hat{X}).
-$$
-
-In the end, by the data-processing inequality, we have
-
-$$
-\begin{aligned}
-I(X; \hat{X}) &\leq I(X; Y),\\
-H(X) - H(X \mid \hat{X}) &\leq H(X) - H(X \mid Y),\\
-H(X \mid \hat{X}) &\geq H(X \mid Y).
-\end{aligned}
-$$
-
-$$\blacksquare$$
-
-<!-- > **Remark.** What if $$\hat{\mathcal{X}} = \mathcal{X}$$ strictly holds? -->
-
 
 <a href="{{ '/resources/' | relative_url }}">← Back to Resources</a>
 
