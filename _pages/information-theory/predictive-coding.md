@@ -25,6 +25,8 @@ nav: false
 
 ---
 
+<br/>
+
 
 <h5 id="variational-free-energy">
   <span class="header-underline">VARIATIONAL FREE ENERGY</span>
@@ -237,6 +239,11 @@ So the variational free energy depends on two prediction errors, the sensory pre
 The full multivariate version of Eq. (4) would be Eq. (14) in Ohams et al. (2026).
 
 
+
+
+
+
+<br/>
 
 <h5 id="temporal-predictive-coding">
   <span class="header-underline">TEMPORAL PREDICTIVE CODING</span>
