@@ -21,3 +21,5 @@ nav_order: 3
 
 1. <a href="{{ '/resources/fisher-information/' | relative_url }}">Fisher Information</a>
 
+1. <a href="{{ '/resources/predictive-coding/' | relative_url }}">Variational Free Energy and Predictive Coding</a>
+
