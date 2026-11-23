@@ -57,7 +57,7 @@ However, the marginalization in the denominator is often intractable, so we want
 <span class="subsection-header">Evaluating the Approximation</span>
 
 
-We use KL divergence to evaluate how good the approximation is:
+We can use KL divergence to evaluate how good the approximation is:
 
 $$
 D_{\mathrm{KL}} \left[ q(\vartheta) \parallel p \left( \vartheta \mid \varphi \right) \right]
@@ -93,7 +93,7 @@ Since the sensory input $$\varphi$$ is not something we can control, at least no
 <span class="subsection-header">Connection to Predictive Coding</span>
 
 
-We rewrite free energy $$\mathcal{F}$$ as
+To derive the connection to predictive coding, we can first rewrite free energy $$\mathcal{F}$$ as
 
 $$
 \begin{aligned}
@@ -121,7 +121,7 @@ Now, to establish the connection with predictive coding, we need to make some as
 > $$
 {: .shorter}
 
-We expand free energy $$\mathcal{F}$$ accordingly:
+We can expand free energy $$\mathcal{F}$$ accordingly:
 
 $$
 \begin{aligned}
@@ -177,7 +177,7 @@ $$
 $$
 
 > Note that instead of dealing with the whole distribution of $$\vartheta$$, we are now only dealing with its mean $$\mu.$$ And instead of $$E(\vartheta, \varphi)$$, we are now dealing with $$E(\mu, \varphi)$$, which is termed the *Laplace-encoded energy*.
-{: .shorter}
+{: .shorter .page-note}
 
 We can further simplify $$\mathcal{F}$$ by getting rid of the dependency on the variance $$\sigma^2.$$ To minimize $$\mathcal{F}$$ w.r.t. $$\sigma^2$$, we take the derivative and set it to 0:
 
@@ -284,7 +284,7 @@ The only difference from the previous section is that the state prediction error
 <span class="subsection-header">Inferring the State $$x_k$$</span>
 
 
-We infer $$x_k$$ through gradient descent on $$\mathcal{F}.$$ The update of $$x_k$$ at each computation time is based on the derivative:
+We can infer $$x_k$$ through gradient descent on $$\mathcal{F}.$$ The update of $$x_k$$ at each computation time is based on the derivative:
 
 $$
 \frac{d}{dt} x_k = -\frac{\partial \mathcal{F}_k}{\partial x_k}.
@@ -334,7 +334,7 @@ $$
 \frac{d}{dt} x_k = - \frac{\varepsilon_{x_k}}{\sigma_x^2} + \frac{\varepsilon_{y_k}}{\sigma_y^2} \frac{\partial f(x_k; \theta_y)}{\partial x_k}.
 $$
 
-The full multivariate version of this would be Eq. (22) in Ohams et al. (2026), where $$\sigma^2$$ is substituted with the covariance matrix $$\Sigma.$$
+The full multivariate version of this would be Eq. (22) in [Ohams et al. (2026)](https://doi.org/10.1016/j.jml.2025.104705), where $$\sigma^2$$ is substituted with the covariance matrix $$\Sigma.$$
 
 
 
@@ -377,7 +377,7 @@ $$
 \end{aligned}
 $$
 
-The multivariate version of this would be Eq. (26) in Ohams et al. (2026), where the variance $$\sigma_y^2$$ is substituted with the covariance matrix $$\Sigma_y.$$
+The multivariate version of this would be Eq. (26) in [Ohams et al. (2026)](https://doi.org/10.1016/j.jml.2025.104705), where the variance $$\sigma_y^2$$ is substituted with the covariance matrix $$\Sigma_y.$$
 
 **For $$\Delta \theta_{xw}$$:**
 
@@ -389,7 +389,7 @@ $$
 \end{aligned}
 $$
 
-The multivariate version of this would be Eq. (27) in Ohams et al. (2026), where the variance $$\sigma_x^2$$ is substituted with the covariance matrix $$\Sigma_x.$$
+The multivariate version of this would be Eq. (27) in [Ohams et al. (2026)](https://doi.org/10.1016/j.jml.2025.104705), where the variance $$\sigma_x^2$$ is substituted with the covariance matrix $$\Sigma_x.$$
 
 
 <p>&nbsp;</p>
