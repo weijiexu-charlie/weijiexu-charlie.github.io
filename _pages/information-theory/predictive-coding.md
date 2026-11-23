@@ -147,7 +147,7 @@ $$
 
 For ③, we can simplify it by making another assumption as below.
 
-> **Assumption 2: $$q(\vartheta)$$ is tightly peaked, like a delta function.** We assume that $$q(\vartheta)$$ is a tightly peaked Gaussian, where its density is concentrated at its mean $$\mu.$$ That is, $$q(\vartheta)$$ is non-zero only around $$\vartheta = \mu$$, within a small increment $$\delta \vartheta = \vartheta - \mu.$$ As a result, the integrand in ③ is only non-zero within the small region around $$\vartheta = \mu.$$
+> **Assumption 2: $$q(\vartheta)$$ is tightly peaked, like a delta function.** &nbsp; Let's assume that $$q(\vartheta)$$ is a tightly peaked Gaussian, where its density is concentrated at its mean $$\mu.$$ That is, $$q(\vartheta)$$ is non-zero only around $$\vartheta = \mu$$, within a small increment $$\delta \vartheta = \vartheta - \mu.$$ As a result, the integrand in ③ is only non-zero within the small region around $$\vartheta = \mu.$$
 {: .shorter}
 
 <figure style="text-align: center;">
@@ -205,7 +205,7 @@ $$
 
 Now we make the last assumption to derive $$p(\mu, \varphi).$$
 
-> **Assumption 3: $$\mu$$ and $$\varphi$$ are drawn from Gaussians.** In order to figure out $$p(\mu, \varphi)$$, let's now define a generative model, where both $$\mu$$ and $$\varphi$$ are assumed to be drawn from Gaussian distributions (recall that $$\mu$$ is the center of the distribution for the environmental state $$\vartheta$$):
+> **Assumption 3: $$\mu$$ and $$\varphi$$ are drawn from Gaussians.** &nbsp; In order to figure out $$p(\mu, \varphi)$$, let's now define a generative model, where both $$\mu$$ and $$\varphi$$ are assumed to be drawn from Gaussian distributions (recall that $$\mu$$ is the center of the distribution for the environmental state $$\vartheta$$):
 {: .shorter}
 
 $$
