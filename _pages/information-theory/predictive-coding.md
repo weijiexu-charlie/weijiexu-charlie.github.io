@@ -42,9 +42,9 @@ nav: false
 <span class="subsection-header">Setting and Motivation</span>
 
 
-**Generative model $$\vartheta \rightarrow \varphi$$.** In this generative model, the sensory observation $$\varphi$$ is generated from the environmental state $$\vartheta.$$
+**Generative model $$\vartheta \rightarrow \varphi$$.** &nbsp; In this generative model, the sensory observation $$\varphi$$ is generated from the environmental state $$\vartheta.$$
 
-**Issue with Bayesian inference about $$\vartheta$$.** To infer $$\vartheta$$ given $$\varphi$$, we use Bayes' rule
+**Issue with Bayesian inference about $$\vartheta$$.** &nbsp; To infer $$\vartheta$$ given $$\varphi$$, we use Bayes' rule
 
 $$
 p \left( \vartheta \mid \varphi = \phi \right) = \frac{p\left( \phi \mid \vartheta \right) p(\vartheta)}{p(\varphi = \phi)} = \frac{p\left( \phi \mid \vartheta \right) p(\vartheta)}{\int p\left( \phi \mid \vartheta \right) p(\vartheta) \, d\vartheta}.
@@ -110,15 +110,16 @@ $$
 
 Now, to establish the connection with predictive coding, we need to make some assumptions to further simplify free energy $$\mathcal{F}.$$
 
-**Assumption 1: $$q(\vartheta)$$ takes the Gaussian form.**
-
-$$
-\begin{aligned}
-q(\vartheta) &= \mathcal{N}\left(\vartheta; \mu, \sigma^2\right) \\
-&= \frac{1}{\sqrt{2 \pi \sigma^2}} \exp \left\{ -\frac{(\vartheta - \mu)^2}{2 \sigma^2} \right\} \\
-&= \frac{1}{Z}e^{-\varepsilon (\vartheta)} \qquad \text{letting } Z=\sqrt{2 \pi \sigma^2}, \; \varepsilon (\vartheta)= \frac{(\vartheta - \mu)^2}{2 \sigma^2}.
-\end{aligned}
-$$
+> **Assumption 1: $$q(\vartheta)$$ takes the Gaussian form.**
+> 
+> $$
+> \begin{aligned}
+> q(\vartheta) &= \mathcal{N}\left(\vartheta; \mu, \sigma^2\right) \\
+> &= \frac{1}{\sqrt{2 \pi \sigma^2}} \exp \left\{ -\frac{(\vartheta - \mu)^2}{2 \sigma^2} \right\} \\
+> &= \frac{1}{Z}e^{-\varepsilon (\vartheta)} \qquad \text{letting } Z=\sqrt{2 \pi \sigma^2}, \; \varepsilon (\vartheta)= \frac{(\vartheta - \mu)^2}{2 \sigma^2}.
+> \end{aligned}
+> $$
+{: .shorter}
 
 We expand free energy $$\mathcal{F}$$ accordingly:
 
@@ -251,7 +252,9 @@ The full multivariate version of Eq. (4) would be Eq. (14) in Ohams et al. (2026
   <span class="header-underline">TEMPORAL PREDICTIVE CODING</span>
 </h5>
 
-This section follows [Millidge et al. (2024)](https://doi.org/10.1371/journal.pcbi.1011183).
+<p class="page-note">This section follows <a href="https://doi.org/10.1371/journal.pcbi.1011183">Millidge et al. (2024)</a></p>
+
+<!-- This section follows [Millidge et al. (2024)](https://doi.org/10.1371/journal.pcbi.1011183). -->
 
 Millidge et al. (2024) use different notation from Buckley et al. (2017). In this section, sensory observations are $$y$$, and the internal states are $$x.$$ Moreover, Millidge et al. (2024) use the notation of state-space representation, but I'll just work with the notation in Ohams et al. (2026). Again, I will work with the univariate version for derivation.
 
@@ -387,6 +390,8 @@ The multivariate version of this would be Eq. (27) in Ohams et al. (2026), where
 
 
 <p>&nbsp;</p>
+
+---
 
 <span class="back-link">
   <i class="fa-solid fa-arrow-left"></i>
