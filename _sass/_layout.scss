@@ -276,14 +276,6 @@ html[data-theme="dark"] .page-note {
 }
 
 
-// .back-link {
-//   font-family: 'Poppins', sans-serif;
-//   display: inline-flex;
-//   align-items: center;
-//   gap: 0.4em;
-//   font-size: 1rem;
-// }
-
 .back-link {
   font-family: 'Poppins', sans-serif;
   display: inline-flex;
@@ -307,6 +299,10 @@ blockquote.shorter {
 
   > :first-child { margin-top: 0 !important; }
   > :last-child  { margin-bottom: 0 !important; }
+}
+
+blockquote.shorter.page-note {
+  font-size: 0.95rem;
 }
 
 
