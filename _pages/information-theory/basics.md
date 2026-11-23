@@ -168,7 +168,7 @@ See this [Wikipedia page](https://en.wikipedia.org/wiki/Gibbs%27_inequality) for
 
 Given a Markov chain $$X \rightarrow Y \rightarrow g(Y)$$, where $$g$$ is a data processing function on $$Y$$, then $$I(X;Y) \geq I\left(X; g(Y)\right)$$.
 
-> *Proof.* Here we have two ways to expand the mutual information using chain rule:
+> *Proof.* &nbsp; Here we have two ways to expand the mutual information using chain rule:
 >
 > $$
 > \begin{aligned}
