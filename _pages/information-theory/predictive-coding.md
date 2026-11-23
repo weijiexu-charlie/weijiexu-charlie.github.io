@@ -32,7 +32,9 @@ nav: false
   <span class="header-underline">VARIATIONAL FREE ENERGY</span>
 </h5>
 
-This section follows [Buckley et al. (2017)](https://doi.org/10.1016/j.jmp.2017.09.004).
+<p class="page-note">This section follows <a href="https://doi.org/10.1016/j.jmp.2017.09.004">(Buckley et al., 2017)</a></p>
+
+<!-- This section follows [Buckley et al. (2017)](https://doi.org/10.1016/j.jmp.2017.09.004). -->
 
 
 
