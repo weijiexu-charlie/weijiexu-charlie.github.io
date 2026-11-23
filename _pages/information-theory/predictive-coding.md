@@ -147,7 +147,7 @@ $$
 
 For ③, we can simplify it by making another assumption as below.
 
-**Assumption 2: $$q(\vartheta)$$ is tightly peaked, like a delta function.** We assume that $$q(\vartheta)$$ is a tightly peaked Gaussian, where its density is concentrated at its mean $$\mu.$$ That is, $$q(\vartheta)$$ is non-zero only around $$\vartheta = \mu$$, within a small increment $$\delta \vartheta = \vartheta - \mu.$$ As a result, the integrand in ③ is only non-zero within the small region around $$\vartheta = \mu.$$
+> **Assumption 2: $$q(\vartheta)$$ is tightly peaked, like a delta function.** We assume that $$q(\vartheta)$$ is a tightly peaked Gaussian, where its density is concentrated at its mean $$\mu.$$ That is, $$q(\vartheta)$$ is non-zero only around $$\vartheta = \mu$$, within a small increment $$\delta \vartheta = \vartheta - \mu.$$ As a result, the integrand in ③ is only non-zero within the small region around $$\vartheta = \mu.$$
 
 <figure style="text-align: center;">
   <img class="plot-figure" src="{{ '/assets/img/information-theory/peaked-gaussian.svg' | relative_url }}" alt="A tightly peaked Gaussian q(theta) centered at mu" style="max-width: 420px; width: 100%;">
@@ -175,7 +175,7 @@ $$
 \end{aligned} \tag{1}
 $$
 
-**Note that instead of dealing with the whole distribution of $$\vartheta$$, we are now only dealing with its mean $$\mu.$$ And instead of $$E(\vartheta, \varphi)$$, we are now dealing with $$E(\mu, \varphi)$$, which is termed the *Laplace-encoded energy*.**
+> Note that instead of dealing with the whole distribution of $$\vartheta$$, we are now only dealing with its mean $$\mu.$$ And instead of $$E(\vartheta, \varphi)$$, we are now dealing with $$E(\mu, \varphi)$$, which is termed the *Laplace-encoded energy*.
 
 We can further simplify $$\mathcal{F}$$ by getting rid of the dependency on the variance $$\sigma^2.$$ To minimize $$\mathcal{F}$$ w.r.t. $$\sigma^2$$, we take the derivative and set it to 0:
 
@@ -203,7 +203,7 @@ $$
 
 Now we make the last assumption to derive $$p(\mu, \varphi).$$
 
-**Assumption 3: $$\mu$$ and $$\varphi$$ are drawn from Gaussians.** In order to figure out $$p(\mu, \varphi)$$, let's now define a generative model, where both $$\mu$$ and $$\varphi$$ are assumed to be drawn from Gaussian distributions (recall that $$\mu$$ is the center of the distribution for the environmental state $$\vartheta$$):
+> **Assumption 3: $$\mu$$ and $$\varphi$$ are drawn from Gaussians.** In order to figure out $$p(\mu, \varphi)$$, let's now define a generative model, where both $$\mu$$ and $$\varphi$$ are assumed to be drawn from Gaussian distributions (recall that $$\mu$$ is the center of the distribution for the environmental state $$\vartheta$$):
 
 $$
 \begin{aligned}
