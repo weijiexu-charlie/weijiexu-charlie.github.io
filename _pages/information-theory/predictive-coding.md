@@ -242,7 +242,7 @@ $$
 
 So the variational free energy depends on two prediction errors, the sensory prediction error $$\varepsilon_{\varphi}$$ and the internal-state prediction error $$\varepsilon_{\mu}$$, weighted by their precisions $$1/\sigma^2_{\varphi}$$ and $$1/\sigma^2_{\mu}.$$
 
-The full multivariate version of Eq. (4) would be Eq. (14) in Ohams et al. (2026).
+The full multivariate version of Eq. (4) would be Eq. (14) in [Ohams et al. (2026)](https://doi.org/10.1016/j.jml.2025.104705).
 
 
 

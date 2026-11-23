@@ -128,7 +128,7 @@ $$
 f(x^n; \theta) = \theta^{\sum_{i=1}^{n} x_i} (1-\theta)^{n - \sum_{i=1}^{n} x_i}, \quad \text{where } x^n \in \mathcal{X}^n.
 $$
 
-**Single Bernoulli trial.** Let's first focus on the situation where there's only a single Bernoulli trial following Eq. (3). The Fisher information about $$\theta$$ within a single trial is thus
+**Single Bernoulli trial.** &nbsp; Let's first focus on the situation where there's only a single Bernoulli trial following Eq. (3). The Fisher information about $$\theta$$ within a single trial is thus
 
 $$
 \begin{aligned}
@@ -149,7 +149,7 @@ This is the unit Fisher information for Bernoulli trials, which is visualized in
   <figcaption class="page-note">Fisher information within a single Bernoulli trial.</figcaption>
 </figure>
 
-**Multiple Bernoulli trials and sufficient statistic.** According to Eq. (2), the Fisher information about the parameter $$\theta$$ within $$n$$ i.i.d. trials is
+**Multiple Bernoulli trials and sufficient statistic.** &nbsp; According to Eq. (2), the Fisher information about the parameter $$\theta$$ within $$n$$ i.i.d. trials is
 
 $$
 J_{X^n}(\theta) = n J_X(\theta) = \frac{n}{\theta (1-\theta)}.
