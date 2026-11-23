@@ -166,6 +166,8 @@ We can calculate the Fisher information in $$Y$$ about $$\theta$$ using the Bino
 
 <p>&nbsp;</p>
 
+---
+
 <span class="back-link">
   <i class="fa-solid fa-arrow-left"></i>
   <a href="{{ '/resources/' | relative_url }}">Back to Resources</a>
