@@ -303,6 +303,7 @@ blockquote.shorter {
   padding-top: 0;
   padding-bottom: 0;
   display: flow-root;
+  font-size: inherit;  // use the same size as the surrounding text
 
   > :first-child { margin-top: 0 !important; }
   > :last-child  { margin-bottom: 0 !important; }
