@@ -547,6 +547,84 @@ ol.research-goals-list {
 }
 
 
+// Space under the menu bar, only when the cover is NOT full width
+@media (min-width: 1025px), (orientation: landscape) {
+  .cover-img {
+    margin-top: 1.5rem;
+  }
+}
+
+
+
+.cover-full {
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  overflow: hidden;                    // keep the blur's soft edges inside the box
+
+  // blurred copy of the same image, behind the real one
+  &::before {
+    content: "";
+    position: absolute;
+    inset: -40px;                      // extend past the edges so the blur has no faded border
+    background: var(--cover-url) right center / cover no-repeat;
+    filter: blur(30px) brightness(0.75);
+  }
+
+  img {
+    position: relative;                // sit on top of the blurred copy
+    display: block;
+    width: 100%;
+    max-height: 65vh;                  // at most 90% of the screen height
+    object-fit: contain;               // shrink to fit, never crop
+    // object-position: right center;      // stick to the left edge
+    object-position: center;      // stick to the left edge
+  }
+}
+
+// prevent a tiny sideways scroll caused by the vertical scrollbar
+body:has(.cover-full) {
+  overflow-x: clip;
+}
+
+
+
+
+
+// // 南北东西路 cover: always full screen width, on every device
+// .cover-full {
+//   width: 100vw;
+//   max-width: 100vw;
+//   margin-left: calc(50% - 50vw);   // pull the image out to the left screen edge
+// }
+
+// // prevent a tiny sideways scroll caused by the vertical scrollbar
+// body:has(.cover-full) {
+//   overflow-x: clip;
+// }
+
+// .cover-full {
+//   width: 100vw;
+//   max-width: 100vw;
+//   margin-left: calc(50% - 50vw);
+//   max-height: 75vh;               // at most 75% of the screen height
+//   object-fit: contain;            // shrink to fit, never crop
+//   object-position: right center;  // stick the image to the right edge
+//   background-color: var(--global-theme-color);
+//   // background-color: #000;         // fill the leftover space on the left
+// }
+
+
+// .cover-full {
+//   width: 100vw;
+//   max-width: 100vw;
+//   margin-left: calc(50% - 50vw);
+//   max-height: 75vh;          // at most 75% of the screen height
+//   object-fit: cover;         // crop instead of squashing
+//   object-position: center 40%;
+// }
+
+
 
 
 // TODO: redefine content layout.
