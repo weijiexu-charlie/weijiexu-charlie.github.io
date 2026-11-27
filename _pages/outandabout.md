@@ -7,7 +7,12 @@ nav: false
 nav_order: 5
 # display_categories: [work, fun]
 horizontal: false
+hide_title: true
+flush_cover: true # cover image sits directly under the menu bar
 ---
+
+<img src="{{ '/assets/img/Covers/outandabout.jpg' | relative_url }}" class="img-fluid rounded-0 cover-img" alt="Resources">
+
 
 <br/>
 
