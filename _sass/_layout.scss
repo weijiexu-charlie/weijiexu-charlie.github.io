@@ -513,6 +513,23 @@ ol.research-goals-list {
 
 
 
+// Project page headers: Poppins + spacing
+.post-description {
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 0.3em;
+}
+
+// Project cards: Poppins, no extra spacing
+.projects .card-text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400 !important;
+  letter-spacing: normal;
+}
+
+.projects .card-title {
+  margin-bottom: 0.25rem;   // smaller gap between title and description
+}
+
 
 
 
