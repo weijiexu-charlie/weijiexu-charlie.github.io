@@ -4,14 +4,16 @@ title: ABOUT
 permalink: /
 subtitle: "Postdoctoral Research Associate in <a href='https://www.umass.edu/linguistics/'>Linguistics</a> at UMass Amherst <br> Email: weijiexu@umass.edu"
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+# The profile picture is now added as a plain <img> in the page body below,
+# so the browser always loads the same JPG (no responsive .webp versions).
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +28,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<div class="profile float-right">
+  <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" class="img-fluid z-depth-1 rounded" alt="Photo of Weijie Xu">
+</div>
 
 <p>&nbsp;</p>
 

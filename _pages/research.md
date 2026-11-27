@@ -6,9 +6,13 @@ description:
 nav: true
 nav_order: 1
 hide_title: true
+flush_cover: true # cover image sits directly under the menu bar
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/Covers/research_cover.jpg" class="img-fluid rounded-0 z-depth-0" %}
+
+<img src="{{ '/assets/img/Covers/research_cover.jpg' | relative_url }}" class="img-fluid rounded-0" alt="Research">
+
+
 
 <p>&nbsp;</p>
 
