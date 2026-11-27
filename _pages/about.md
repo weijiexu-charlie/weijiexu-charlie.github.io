@@ -37,7 +37,7 @@ latest_posts:
 
 I am a Postdoctoral Research Associate in Linguistics at UMass Amherst. I am a member of the [<span class="page-link-in-text">Computational Sentence Processing Lab</span>](https://people.umass.edu/bwdillon/compsentproc.html), working with [<span class="page-link-in-text">Brian Dillon</span>](https://people.umass.edu/bwdillon/?_gl=1*md20qh*_gcl_au*NjU5Mjc1MTM4LjE3ODY1NTY2NDM.*_ga*NTEzMzE4MzUxLjE3Nzg3NzEyMjk.*_ga_21RLS0L7EB*czE3ODcyNjk4MDUkbzMxJGcxJHQxNzg3MjY5ODY1JGo2MCRsMCRoMA..). My area of specialization is computational psycholinguistics. 
 
-<a class="cv-button" href="{{ '/assets/pdf/Weijie_Xu_CV.pdf' | relative_url }}" target="_blank" rel="noopener">
+<a class="cv-button" href="https://weijiexu-charlie.github.io/assets/pdf/Weijie_Xu_CV.pdf">
   Download my CV <i class="fa-solid fa-arrow-right"></i>
 </a>
 
