@@ -17,13 +17,19 @@ category: europe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin1.jpg" title="The River Spree" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin1.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="The River Spree" alt="The River Spree">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin11.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin11.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Berlin Train" alt="Berlin Train">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin12.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin12.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Berlin Train" alt="Berlin Train">
+        </figure>
     </div>
 </div>
 
@@ -37,13 +43,19 @@ category: europe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin2_sq.jpg" title="Kids Crossing the Street" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin2_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Kids Crossing the Street" alt="Kids Crossing the Street">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin4_sq.jpg" title="Musuem Island" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin4_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Musuem Island" alt="Musuem Island">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin6_sq.jpg" title="Berlin Street" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin6_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Berlin Street" alt="Berlin Street">
+        </figure>
     </div>
 </div>
 
@@ -57,17 +69,31 @@ category: europe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin5_sq.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin5_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Berlin Train" alt="Berlin Train">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin15_sq.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin15_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Berlin Train" alt="Berlin Train">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Berlin/berlin10_sq.jpg" title="Berlin Train" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Berlin/berlin10_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Berlin Train" alt="Berlin Train">
+        </figure>
     </div>
 </div>
 
 <div class="caption">
     Photos taken in Sept 2022
 </div>
+
+
+---
+
+<span class="back-link">
+  <i class="fa-solid fa-arrow-left"></i>
+  <a href="{{ '/outandabout/' | relative_url }}">Back 返回</a>
+</span>
 

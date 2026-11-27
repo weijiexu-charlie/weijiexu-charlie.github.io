@@ -31,41 +31,67 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake1.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake1.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake2.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake2.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake3.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake4.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake5.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake6.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake3.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake7.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake4.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake8.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake5.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lake_Michigan/lake9.jpg" title="Lake Michigan" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake6.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake7.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake8.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+            <img src="{{ '/assets/img/Lake_Michigan/lake9.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Lake Michigan" alt="Lake Michigan">
+        </figure>
     </div>
 </div>
 
 <div class="caption">
     Photos taken between Sept 2019 and Sept 2021
 </div>
+
+
+---
+
+<span class="back-link">
+  <i class="fa-solid fa-arrow-left"></i>
+  <a href="{{ '/outandabout/' | relative_url }}">Back 返回</a>
+</span>
 

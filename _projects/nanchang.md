@@ -18,13 +18,19 @@ category: China
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang1.jpg" title="后墙路" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang1.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="后墙路" alt="后墙路">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang2.jpg" title="后墙路" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang2.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="后墙路" alt="后墙路">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang3.jpg" title="钟鼓楼" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang3.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="钟鼓楼" alt="钟鼓楼">
+        </figure>
     </div>
 </div>
 
@@ -38,13 +44,19 @@ category: China
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang4.jpg" title="水观音亭" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang4.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="水观音亭" alt="水观音亭">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang5.jpg" title="滕王阁" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang5.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="滕王阁" alt="滕王阁">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang6.jpg" title="后墙路" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang6.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="后墙路" alt="后墙路">
+        </figure>
     </div>
 </div>
 
@@ -60,13 +72,19 @@ category: China
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang7.jpg" title="经济大楼" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang7.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="经济大楼" alt="经济大楼">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang8.jpg" title="东湖" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang8.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="东湖" alt="东湖">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang9.jpg" title="南湖" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang9.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="南湖" alt="南湖">
+        </figure>
     </div>
 </div>
 
@@ -84,13 +102,19 @@ category: China
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang10.jpg" title="章江路" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang10.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="章江路" alt="章江路">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang11.jpg" title="邮政路" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang11.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="邮政路" alt="邮政路">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Nanchang/Nanchang13.jpg" title="金塔东街" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Nanchang/Nanchang13.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="金塔东街" alt="金塔东街">
+        </figure>
     </div>
 </div>
 
@@ -104,4 +128,12 @@ category: China
 <div class="caption">
     Photos taken in Nanchang (Sept 2023)
 </div>
+
+
+---
+
+<span class="back-link">
+  <i class="fa-solid fa-arrow-left"></i>
+  <a href="{{ '/outandabout/' | relative_url }}">Back 返回</a>
+</span>
 

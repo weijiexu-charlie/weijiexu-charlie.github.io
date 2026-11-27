@@ -21,13 +21,19 @@ category: south america
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru4.jpg" title="Rainbow mountains" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru4.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Rainbow mountains" alt="Rainbow mountains">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru1.jpg" title="Cusco Viva el Peru" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru1.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Cusco Viva el Peru" alt="Cusco Viva el Peru">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru12.jpg" title="Cusco Viva el Peru" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru12.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Cusco Viva el Peru" alt="Cusco Viva el Peru">
+        </figure>
     </div>
 </div>
 
@@ -47,13 +53,19 @@ category: south america
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru2.jpg" title="Ollantaytambo" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru2.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Ollantaytambo" alt="Ollantaytambo">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru8.jpg" title="The Sacred Valley" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru8.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="The Sacred Valley" alt="The Sacred Valley">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru6.jpg" title="Chincherro" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru6.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Chincherro" alt="Chincherro">
+        </figure>
     </div>
 </div>
 
@@ -69,13 +81,19 @@ category: south america
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru9_sq.jpg" title="Humantay" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru9_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Humantay" alt="Humantay">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru10_sq.jpg" title="Ollantaytambo" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru10_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Ollantaytambo" alt="Ollantaytambo">
+        </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Peru/peru11_sq.jpg" title="Cusco Viva el Peru" class="img-fluid rounded-0 z-depth-0" %}
+        <figure>
+            <img src="{{ '/assets/img/Peru/peru11_sq.jpg' | relative_url }}" class="img-fluid rounded-0 z-depth-0" title="Cusco Viva el Peru" alt="Cusco Viva el Peru">
+        </figure>
     </div>
 </div>
 
@@ -83,3 +101,10 @@ category: south america
     Photos taken in Aug 2022
 </div>
 
+
+---
+
+<span class="back-link">
+  <i class="fa-solid fa-arrow-left"></i>
+  <a href="{{ '/outandabout/' | relative_url }}">Back 返回</a>
+</span>
