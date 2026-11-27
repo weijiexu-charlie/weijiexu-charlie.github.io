@@ -513,7 +513,13 @@ ol.research-goals-list {
 
 
 
-// Project page headers: Poppins + spacing
+// Project-related styles
+
+.projects .card,
+.projects .card-img-top {
+  border-radius: 0;
+}
+
 .post-description {
   font-family: "Poppins", sans-serif;
   letter-spacing: 0.3em;
@@ -528,6 +534,16 @@ ol.research-goals-list {
 
 .projects .card-title {
   margin-bottom: 0.25rem;   // smaller gap between title and description
+}
+
+
+// Full-width cover images on phones and iPads held vertically
+@media (max-width: 1024px) and (orientation: portrait) {
+  .cover-img {
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: calc(50% - 50vw);   // pull the image out to the left screen edge
+  }
 }
 
 

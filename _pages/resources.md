@@ -10,7 +10,7 @@ flush_cover: true # cover image sits directly under the menu bar
 ---
 
 
-<img src="{{ '/assets/img/Covers/resources_cover.jpg' | relative_url }}" class="img-fluid rounded-0" alt="Resources">
+<img src="{{ '/assets/img/Covers/resources_cover.jpg' | relative_url }}" class="img-fluid rounded-0 cover-img" alt="Resources">
 
 
 <p>&nbsp;</p>

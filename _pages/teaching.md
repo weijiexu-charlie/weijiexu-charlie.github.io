@@ -9,7 +9,7 @@ hide_title: true
 flush_cover: true # cover image sits directly under the menu bar
 ---
 
-<img src="{{ '/assets/img/Covers/teaching_cover.jpg' | relative_url }}" class="img-fluid rounded-0" alt="Teaching">
+<img src="{{ '/assets/img/Covers/teaching_cover.jpg' | relative_url }}" class="img-fluid rounded-0 cover-img" alt="Teaching">
 
 <p>&nbsp;</p>
 
