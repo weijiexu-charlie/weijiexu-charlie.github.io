@@ -5,6 +5,7 @@ description: THE MOUNTAINS OF CUSCO
 img: assets/img/Peru/peru1.jpg
 importance: 2
 category: south america
+essay: true   # use 汇文正楷 for Chinese text
 ---
 
 <br/>

@@ -5,6 +5,7 @@ description: THE TRAINS OVER THE SPREE
 img: assets/img/Berlin/berlin_cover.jpg
 importance: 3
 category: europe
+essay: true   # use 汇文正楷 for Chinese text
 ---
 
 <br/>

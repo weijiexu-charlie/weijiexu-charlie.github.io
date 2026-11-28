@@ -9,6 +9,7 @@ nav_order: 5
 horizontal: false
 hide_title: true
 flush_cover: true # cover image sits directly under the menu bar
+essay: true   # use 汇文正楷 for Chinese text
 ---
 
 <img src="{{ '/assets/img/Covers/outandabout.jpg' | relative_url }}" class="img-fluid rounded-0 cover-img" alt="Resources">

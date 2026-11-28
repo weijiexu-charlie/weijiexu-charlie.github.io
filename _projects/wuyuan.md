@@ -5,6 +5,7 @@ description: THE HORSE-HEAD WALLS
 img: assets/img/Wuyuan/wuyuan_cover.jpg
 importance: 4
 category: china
+essay: true   # use 汇文正楷 for Chinese text
 ---
 
 <br/>

@@ -5,6 +5,7 @@ description: LAO MIN
 img: assets/img/Nanchang/Nanchang_cover.jpg
 importance: 5
 category: China
+essay: true   # use 汇文正楷 for Chinese text
 ---
 
 <br/>

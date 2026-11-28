@@ -5,6 +5,7 @@ description: LAKE MICHIGAN
 img: assets/img/Lake_Michigan/lake5.jpg
 importance: 1
 category: north america
+essay: true   # use 汇文正楷 for Chinese text
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 

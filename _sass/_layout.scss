@@ -528,11 +528,16 @@ ol.research-goals-list {
 // Project cards: Poppins, no extra spacing
 .projects .card-text {
   font-family: "Poppins", sans-serif;
-  font-weight: 400 !important;
+  font-weight: 300 !important;
   letter-spacing: normal;
 }
 
 .projects .card-title {
+  font-family: 'Noto Serif SC', serif !important;
+  // font-family: "EB Garamond", "Noto Sans SC", sans-serif;
+  letter-spacing: 0.15em;
+  font-weight: 700 !important;
+  font-size: 1.5rem !important;
   margin-bottom: 0.25rem;   // smaller gap between title and description
 }
 
@@ -587,6 +592,15 @@ body:has(.cover-full) {
   overflow-x: clip;
 }
 
+
+.essay article p {
+  // font-family: "Huiwen ZhengKai", "EB Garamond", serif;
+  // font-size: 1.3rem;
+  font-family: "EB Garamond", "Noto Sans SC", sans-serif;
+  line-height: 1.9;
+  // font-weight: 400 !important;
+  margin-bottom: 1.5em;   // space after each paragraph
+}
 
 
 
